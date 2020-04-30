@@ -1,0 +1,1384 @@
+locations,latitude,longitude,country
+"Bungay, Suffolk",52.4562248,1.4373413,United Kingdom
+"Faversham, Kent",51.3144088,0.8911894,United Kingdom
+"Bristol, Gloucestershire",51.8527674,-2.2553694,United Kingdom
+"Round Rock, Texas",30.508235,-97.6788934,United States of America
+"Brooklyn, New York",40.6501038,-73.9495823,United States of America
+"Cincinnati, Ohio",39.1014537,-84.5124602,United States of America
+"Downingtown, Pennsylvania",40.0064958,-75.7032742,United States of America
+"Coronado, California",32.6915199,-117.1766947,United States of America
+"Bury St. Edmunds, Suffolk",52.2460367,0.7125173,United Kingdom
+"Chiswick, Greater London",51.4923137,-0.263818,United Kingdom
+"Wainfleet, Lincolnshire",53.105126,0.2345366,United Kingdom
+"Mainz, Rhineland-Palatinate",50.0012314,8.2762513,Germany
+"Southwold, Suffolk",52.3266586,1.6794539,United Kingdom
+"Bremen, Bremen",53.0758196,8.8071646,
+"Oldenburg, Lower Saxony",53.1389753,8.2146017,Germany
+"Grand Rapids, Michigan",42.9632405,-85.6678639,United States of America
+"Leeds, West Yorkshire",53.7974185,-1.5437941,United Kingdom
+"Frederick, Maryland",39.4142186,-77.4109269,United States of America
+"Munich, Bavaria",48.1371079,11.5753822,Germany
+"Comstock, Michigan",42.2867083,-85.5133374,United States of America
+"Pompano Beach, Florida",26.2378597,-80.1247667,United States of America
+"Canmore, Alberta",51.0866897,-115.3481135,Canada
+"San Francisco, California",37.7790262,-122.4199061,United States of America
+"Aldergrove, British Columbia",49.0596635,-122.4922381,Canada
+"Vancouver, British Columbia",49.2608724,-123.1139529,Canada
+"Victoria, British Columbia",48.4283182,-123.3649533,Canada
+"Chilliwack, British Columbia",49.157677,-121.9514307,Canada
+"Bowburn, Durham",54.7395825,,
+"Kamloops, British Columbia",50.6758269,-120.3394159,Canada
+"Glenwood Springs, Colorado",39.5507448,-107.3255001,United States of America
+"Stockport, Greater Manchester",53.407901,-2.160243,United Kingdom
+"Badley, Suffolk",52.1715362,1.0209354,United Kingdom
+"Skælskør, Denmark",55.2521101,11.2942011,Denmark
+"Nishikanbara-gun, Niigata-ken, Japan",,,
+"Portland, Oregon",45.5202471,-122.6741949,United States of America
+"Manchester, Greater Manchester",53.4794892,-2.2451148,United Kingdom
+"Piozzo, Italy",44.5156548,7.892257,Italy
+"San Antonio, Texas",29.4246002,-98.4951405,United States of America
+"Port Townsend, Washington",48.1185325,-122.7679629,United States of America
+"Ottawa, Ontario",45.421106,-75.690308,Canada
+"Torrance, California",33.8358492,-118.3406288,United States of America
+"Barrie, Ontario",44.3893113,-79.6901736,Canada
+"Aschaffenburg, Bavaria",49.9740542,9.1493636,Germany
+"Boston, Massachusetts",42.3602534,-71.0582912,United States of America
+"Elk Grove Village, Illinois",,-88.00399428423424,
+"Keene, New Hampshire",42.933597,-72.2784264,United States of America
+"Fort Collins, Colorado",40.5508527,-105.0668085,United States of America
+"Longmont, Colorado",40.1672117,-105.1019287,United States of America
+"East Stroudsburg, Pennsylvania",40.9995386,-75.1812913,United States of America
+"Tinley Park, Illinois",41.5733669,-87.7844944,United States of America
+"Greeley, Colorado",40.4233142,-104.7091322,United States of America
+"Waunakee, Wisconsin",43.1919373,-89.4556749,United States of America
+"Edmonton, Alberta",53.535411,-113.507996,Canada
+"Santa Rosa, California",38.4404925,-122.7141049,United States of America
+"Warrenton, Virginia",38.7135498,-77.795367,United States of America
+"Newington, New Hampshire",43.100482,-70.834351,United States of America
+"Mamaroneck, New York",40.9487097,-73.7326309,United States of America
+"Chicago, Illinois",41.8755616,-87.6244212,United States of America
+"St. Louis, Missouri",38.6529545,-90.24111656024635,United States of America
+"Eau Claire, Wisconsin",44.811349,-91.4984941,United States of America
+"Farmingdale, New York",40.7356738,-73.4417524,United States of America
+"Rigaud, Quebec",45.4794481,-74.3019608,Canada
+"Auburn, California",38.8945939,-121.0739897,United States of America
+"Arvada, Colorado",39.8211225,-105.22074299044587,United States of America
+"Dunham, Quebec",45.130469,-72.800903,Canada
+"Denver, Colorado",39.7392364,-104.9848623,United States of America
+"Richmond, Virginia",37.5385087,-77.43428,United States of America
+"Escondido, California",33.1216751,-117.0814849,United States of America
+"Bedford, Bedfordshire",52.1363806,-0.4675041,United Kingdom
+"Burlington, Ontario",43.3248924,-79.7966835,Canada
+"Baltimore, Maryland",39.2908816,-76.610759,United States of America
+"Asheville, North Carolina",35.6009498,-82.5540161,United States of America
+"Paso Robles, California",35.6267654,-120.6912456,United States of America
+"Eureka, California",40.8020712,-124.1636729,United States of America
+"Cherry Hill, New Jersey",39.9348351,-75.0307264,United States of America
+"Anaheim, California",33.8347516,-117.911732,United States of America
+"San Diego, California",32.7174209,-117.1627714,United States of America
+"Mayne Island, British Columbia",48.84438285,-123.28755177004035,Canada
+"Port Crane, New York",42.1642428,-75.8335265,United States of America
+", Illinois",40.0796606,-89.4337288,United States of America
+"Seattle, Washington",47.6038321,-122.3300624,United States of America
+"New Glarus, Wisconsin",42.8145157,-89.6338752,United States of America
+"Rockville, Maryland",39.0840054,-77.1527573,United States of America
+"Big Lake, Minnesota",45.3324647,-93.7460804,United States of America
+"Saint Petersburg, Florida",27.7703796,-82.6695085,United States of America
+"New York, New York",40.7127281,-74.0060152,United States of America
+"Broussard, Louisiana",30.1471506,-91.9612413,United States of America
+"Tilton, New Hampshire",43.44245,-71.588974,United States of America
+"Grand Haven, Michigan",43.0630734,-86.2283864,United States of America
+"Charlotte, North Carolina",35.2270869,-80.8431268,United States of America
+"Easton, Pennsylvania",40.6916081,-75.2099866,United States of America
+"Salt Lake City, Utah",40.7596198,-111.8867975,United States of America
+"Frisco, Colorado",39.5744299,-106.0975196,United States of America
+"Amherst, Wisconsin",44.4506775,-89.2845905,United States of America
+"Squamish, British Columbia",49.6980743,-123.1558612,Canada
+"Placentia, California",33.8714814,-117.8617337,United States of America
+"Truckee, California",39.327962,-120.1832533,United States of America
+"Miami, Florida",25.7742658,-80.1936589,United States of America
+"Astoria, Oregon",46.187885,-123.831256,United States of America
+"Tulsa, Oklahoma",36.1556805,-95.9929113,United States of America
+"Redmond, Washington",47.6694141,-122.1238767,United States of America
+"Collingwood, Ontario",44.5027226,-80.2172379,Canada
+"Arlington, Washington",48.1810957,-122.1389548,United States of America
+"San Marcos, California",33.1433723,-117.1661449,United States of America
+"Minneapolis, Minnesota",44.9772995,-93.2654692,United States of America
+"Milton, Delaware",38.7778787,-75.3100636,United States of America
+"Austin, Texas",30.2711286,-97.7436995,United States of America
+"Utica, New York",43.1009031,-75.2326641,United States of America
+"Vista, California",33.2000368,-117.2425355,United States of America
+"Barrington, New Hampshire",43.223191,-71.047211,United States of America
+"Cooperstown, New York",42.7006303,-74.924321,United States of America
+"Athens, Ohio",39.355589,,
+"Chico, California",39.7284945,-121.8374777,United States of America
+"Hamilton, Ontario",43.2560802,-79.8728583,Canada
+"Tadcaster, North Yorkshire",53.8852975,-1.2595975,United Kingdom
+"Raleigh, North Carolina",35.7803977,-78.6390989,United States of America
+"Coopersburg, Pennsylvania",40.51146,-75.3903376,United States of America
+"Charlton, Massachusetts",42.1348444,-71.9643153,United States of America
+"Waterloo, Ontario",43.466874,-80.524635,Canada
+"Oshkosh, Wisconsin",44.0206919,-88.5408574,United States of America
+"Knoxville, Tennessee",35.9603948,-83.9210261,United States of America
+"Stroudsburg, Pennsylvania",40.9864261,-75.1946649,United States of America
+"Memphis, Tennessee",35.1490215,-90.0516285,United States of America
+"Straubing, Bavaria",48.8819801,12.569716,Germany
+"Trois-Rivières, Quebec",46.332706,-72.556458,Canada
+"Somerset, Kentucky",37.0920222,-84.6041084,United States of America
+"Timberville, Virginia",38.6390069,-78.7739112,United States of America
+"Hackney, Greater London",51.5432402,-0.0493621,United Kingdom
+"Poughkeepsie, New York",41.7065779,-73.9284101,United States of America
+"Hyattsville, Maryland",38.9529442,-76.9408647,United States of America
+"Weymouth, Massachusetts",42.2212188,-70.9391625,United States of America
+"Davis, California",38.545379,-121.7445835,United States of America
+"Columbus, Ohio",39.9622601,-83.0007065,United States of America
+"Saltaire, West Yorkshire",53.8371089,-1.7906734,United Kingdom
+"Vankleek Hill, Ontario",45.5196086,-74.6519669,Canada
+"Aying, Bavaria",47.9700185,11.7787094,Germany
+"Saint-Casimir, Quebec",46.656506,-72.139664,Canada
+"Loveland, Ohio",39.2689562,-84.2638406,United States of America
+"South Windsor, Connecticut",41.8489872,-72.5717551,United States of America
+"Bayreuth, Bavaria",49.9427202,11.5763079,Germany
+"Chambly, Quebec",45.4473898,-73.2932002,Canada
+"Boise, Idaho",43.6166163,-116.200886,United States of America
+"Garden City, Idaho",43.622111,-116.2381787,United States of America
+"Leesburg, Virginia",39.1154496,-77.5645446,United States of America
+"Aldermaston Stoke, Berkshire",,,
+"Long Island City, New York",40.7415095,-73.9569751,United States of America
+"Bloomington, Indiana",39.1670396,-86.5342881,United States of America
+"Boulder, Colorado",,-105.2705456,
+"Huddersfield, West Yorkshire",53.6466645,-1.7822482,United Kingdom
+"Fairfield, New Jersey",40.2050878,-74.2135004,United States of America
+"Hemel Hempstead, Hertfordshire",51.7511784,-0.472528,United Kingdom
+"Neckarsulm, Baden-Württemberg",49.191735,9.2249443,Germany
+"Darmstadt, Hesse",49.872775,8.651177,Germany
+"Autenried (Ichenhausen), Bavaria",48.3648287,10.2531614,Germany
+"Mason, Ohio",39.3600586,-84.309939,United States of America
+"Erith, Greater London",51.4775613,0.1823013,United Kingdom
+"Meschede-Grevenstein, North Rhine-Westphalia",51.3326845,8.1596644,Germany
+"Cambridge, Ontario",43.3600536,-80.3123023,Canada
+"Frome, Somerset",51.2270558,-2.3192971,United Kingdom
+"Toronto, Ontario",43.6534817,-79.3839347,Canada
+"Honiton, Devon",50.7981119,-3.1924599,United Kingdom
+"Gaithersburg, Maryland",39.1434406,-77.2013705,United States of America
+"Newcastle-upon-Tyne, Tyne & Wear",54.9738474,-1.6131572,United Kingdom
+"Etobicoke, Ontario",43.671459150000004,-79.55249206611668,Canada
+"Decorah, Iowa",43.3033056,-91.7857092,United States of America
+"Burlington, Vermont",44.4762975,-73.2135472,United States of America
+"Portland, Maine",43.6610277,-70.2548596,United States of America
+"Stratford, Connecticut",41.1845415,-73.1331651,United States of America
+"Zawiercie, Poland",50.4844382,19.433394,Poland
+"Fargo, North Dakota",46.877229,-96.789821,United States of America
+"Dallas, Texas",32.7762719,-96.7968559,United States of America
+"Caledon, Ontario",43.875427,-79.858285,Canada
+"Saint-Fulgence, Quebec",48.4503143,-70.9033899,Canada
+"Richmond, Kentucky",37.7478572,-84.2946539,United States of America
+"Oklahoma City, Oklahoma",35.4729886,-97.5170536,United States of America
+"Hatfield, Pennsylvania",40.2796371,-75.2995777,United States of America
+"Akron, Ohio",41.083064,-81.518485,United States of America
+"Cheltenham, Gloucestershire",51.8995685,-2.0711559,United Kingdom
+"Earsham, Norfolk",52.4502075,1.4172979,United Kingdom
+"Charlottesville, Virginia",38.029306,-78.4766781,United States of America
+"Indianapolis, Indiana",39.7683331,-86.1583502,United States of America
+"Teisendorf, Bavaria",47.849038,12.8218357,Germany
+"Montréal, Quebec",45.4972159,-73.6103642,Canada
+"West Norwood, Greater London",51.4346192,-0.1036917,United Kingdom
+"Tottenham Hale, Greater London",51.5881223,-0.0599366,United Kingdom
+"Itterbeek, Belgium",51.156967,5.7919803,The Netherlands
+"Freising, Bavaria",48.4008273,11.7439565,Germany
+"North Wales, Pennsylvania",40.2109404,-75.2782317,United States of America
+"Munster, Indiana",41.5644798,-87.5125412,United States of America
+"Mannheim, Baden-Württemberg",49.489591,8.467236,Germany
+"South Glens Falls, New York",43.299447,-73.635178,United States of America
+"East Fishkill, New York",41.5533306,-73.7956214,United States of America
+"Salford, Greater Manchester",53.4877463,-2.2891921,United Kingdom
+"Hamburg , Hamburg",47.7630597,-99.51457,United States of America
+"Bermondsey, Greater London",51.4970125,-0.063268,United Kingdom
+"Cheshunt, Hertfordshire",51.702052,-0.0335908,United Kingdom
+"Petting/Schönram, Bavaria",,,
+"Ketchum, Idaho",43.680741,-114.363662,United States of America
+"Ferndale, Michigan",42.4605917,-83.1346478,United States of America
+"Freiburg im Breisgau, Baden-Württemberg",47.9960901,7.8494005,Germany
+"Finchampstead, Berkshire",51.37490835,-0.8129636678949486,United Kingdom
+"Aldersbach, Bavaria",48.5881793,13.0846579,Germany
+"Barnes, Greater London",51.4718962,-0.2387441,United Kingdom
+"Southport, Merseyside",53.6475988,-3.0041751,United Kingdom
+"Bromyard, Herefordshire",52.1884704,-2.5107318,United Kingdom
+"Paddington, Greater London",51.5170856,-0.1775422,United Kingdom
+"East Peckham, Kent",51.2131511,0.3865789,United Kingdom
+"Spencer, Massachusetts",42.2482063,-71.9938312,United States of America
+"Versailles, Kentucky",38.052576,-84.7299464,United States of America
+"Geldern, North Rhine-Westphalia",51.5169736,6.3228189,Germany
+"Kirkbymoorside, North Yorkshire",54.2706507,-0.9323561,United Kingdom
+"Sutton, Quebec",45.1109765,-72.6177899,Canada
+"Skagen, Denmark",57.7259703,10.5844602,Denmark
+"Zwiefalten, Baden-Württemberg",48.2331643,9.4614966,Germany
+"Queens, New York",40.7498243,-73.7976337,United States of America
+"Kelheim, Bavaria",48.9187285,11.8727886,Germany
+"Berlin, Berlin",46.3785823,-98.4898183,United States of America
+"Newburn, Tyne & Wear",54.983543,-1.7405072,United Kingdom
+"West Acre, Norfolk",52.70588,0.6317901,United Kingdom
+"Witney, Oxfordshire",51.7859366,-1.4850585,United Kingdom
+"Portsmouth, New Hampshire",43.0717552,-70.7625532,United States of America
+"Wolverhampton, West Midlands",52.5847651,-2.127567,United Kingdom
+"Nottingham, Nottinghamshire",52.9534193,-1.1496461,United Kingdom
+"Esher, Surrey",51.3693929,-0.3654406,United Kingdom
+"Seeon, Bavaria",47.9765682,12.4598714,Germany
+"Stuttgart, Baden-Württemberg",48.7784485,9.1800132,Germany
+"Stowmarket, Suffolk",52.1878147,0.9973428,United Kingdom
+"Mariendorf, Berlin",52.44008,13.3900277,Germany
+"Walworth, Greater London",51.4901142,-0.0906603,United Kingdom
+"Brighton , East Sussex",50.78357855,0.12148666117747367,United Kingdom
+"Newcastle upon Tyne , Tyne & Wear",54.9738474,-1.6131572,United Kingdom
+"North Bay  , Ontario",46.3092115,-79.4607617,Canada
+"Timmins, Ontario",48.477473,-81.330414,Canada
+"North Bay, Ontario",46.3092115,,
+"Bakewell, Derbyshire",53.2148429,-1.6758613,United Kingdom
+"Birmingham, Alabama",33.5206824,-86.8024326,United States of America
+"Guelph, Ontario",43.5460516,-80.2493276,Canada
+"Rulles, Belgium",49.7264021,5.6249973,Belgium
+"Leyton, Greater London",51.5696734,-0.015681,United Kingdom
+"Halifax, Nova Scotia",44.648618,-63.5859487,Canada
+"Snetterton, Norfolk",52.4821011,0.9352583,United Kingdom
+"Wanstead, Greater London",51.5756739,0.0277989,United Kingdom
+"Zwönitz, Saxony",50.6301029,12.8131994,Germany
+"Matane, Quebec",48.8468633,-67.5295977,Canada
+"Saint-Jean-sur-Richelieu, Quebec",45.3056879,-73.2533401,Canada
+"Seaham, Durham",54.8372106,-1.3355612,United Kingdom
+"Cragg Vale, West Yorkshire",53.7050193,-1.998365,United Kingdom
+"Markham, Ontario",43.854336,-79.326782,Canada
+"Keswick, Cumbria",54.599899300000004,-3.1326786179762363,United Kingdom
+"Clun, Shropshire",52.4211807,-3.0300584,United Kingdom
+"Gravenhurst, Ontario",,-79.373131,
+"Québec, Quebec",46.8259601,-71.2352226,Canada
+"Nürnberg, Bavaria",49.453872,11.077298,Germany
+"Chicoutimi, Quebec",48.3370248,-71.12352613559267,Canada
+"Kincardine, Ontario",44.1776378,,
+"Wellington, Ontario",43.7590121,-80.4614994,Canada
+"Iisalmi, Finland",63.5567679,27.1892281,Finland
+"Reading, Berkshire",51.456659,-0.9696512,United Kingdom
+"Liverpool, Merseyside",53.4013379,,
+"Hillier, Ontario",43.9740881,-77.455059,Canada
+"Walthamstow, Greater London",51.5844701,-0.0188186,United Kingdom
+"Purcellville, Virginia",39.1367717,-77.7147153,United States of America
+"Morganton, North Carolina",35.7454291,-81.6870837,United States of America
+"Perkasie, Pennsylvania",40.372048,,
+"Picton, Ontario",44.0077172,,
+"Bethnal Green, Greater London",51.5303456,-0.0561633,United Kingdom
+"Gundelfingen , Bavaria",48.55214455,10.364145418379685,Germany
+"Leyland, Lancashire",53.6904813,-2.6991336,United Kingdom
+"Rambin auf Rügen, Mecklenburg-Vorpommern",,,
+"München / Unterschleissheim, Bavaria",48.2817,11.5762984,Germany
+"Herndon, Virginia",38.9695316,-77.3859479,United States of America
+"Sint-Truiden, Belgium",50.8152784,5.1858896,Belgium
+"Kingston, Ontario",44.230687,-76.481323,Canada
+"Charlottetown, Prince Edward Island",46.2906776,-63.12947829366235,Canada
+"Perth , Ontario",43.4935991,-81.0164111,Canada
+"Ashton, Ontario",45.1567963,-76.0322649,Canada
+"Lanark Highlands, Ontario",45.0875524,-76.48559826942638,Canada
+"Hinesburg, Vermont",44.329251,-73.111267,United States of America
+"Millvale, Pennsylvania",40.480069,-79.9783862,United States of America
+"Deptford, Greater London",51.4758453,-0.0215164,United Kingdom
+"Inglewood, California",33.9562003,-118.353132,United States of America
+"Ellingen, Bavaria",49.0615224,10.9693369,Germany
+"Battersea, Greater London",51.4707933,-0.172214,United Kingdom
+"Braybrooke, Northamptonshire",52.4513484,-0.875906,United Kingdom
+"Ipswich, Suffolk",52.0579495,1.1526345,United Kingdom
+"Northfleet, Kent",51.4459453,0.3239669,United Kingdom
+"Oettingen, Bavaria",48.9434729,10.601307292325565,Germany
+", Norfolk",52.666667,1.0,United Kingdom
+"Ertvelde, Belgium",51.178352950000004,3.7601413385807803,Belgium
+"Norfolk, Virginia",36.8462923,-76.2929252,United States of America
+"Los Angeles, California",34.0536909,-118.2427666,United States of America
+"Southminster, Essex",51.6618541,0.8300674,United Kingdom
+"Billings, Montana",45.7874957,-108.49607,United States of America
+"Saint-Hyacinthe, Quebec",45.627484,-72.940636,Canada
+"Mesilla, New Mexico",32.2741174,-106.7952056,United States of America
+"Julian, California",33.078597,-116.6023154,United States of America
+"Normal, Illinois",40.5117699,-88.9944815,United States of America
+"Ashland, Oregon",42.1972487,-122.7153995,United States of America
+"Melle, Belgium",51.00303,3.7988833,Belgium
+"Vernon, British Columbia",50.268277,-119.267578,Canada
+"Exeter, Devon",50.725562,-3.5269108,United Kingdom
+"Redditch, Worcestershire",52.3057655,-1.9417444,United Kingdom
+"Maidenhead, Berkshire",51.5237929,-0.7189899,United Kingdom
+"Brighton, East Sussex",50.78357855,0.12148666117747367,United Kingdom
+"Buxton, Derbyshire",53.2607853,-1.9131016,United Kingdom
+"Bitburg, Rhineland-Palatinate",49.9732762,6.524947,Germany
+"Sollefteå, Sweden",63.441664450000005,16.74939662345058,Sweden
+"Pershore, Worcestershire",52.1096993,-2.0754758,United Kingdom
+"Varel, Lower Saxony",53.395777,8.1372149,Germany
+"Great Barton, Suffolk",52.2709279,0.770001,United Kingdom
+"Borna, Saxony",51.1241649,12.4999055,Germany
+"Kaufbeuren, Bavaria",47.8803788,10.622246,Germany
+"Pipaix, Belgium",50.582865,3.575887,Belgium
+"Elsendorf, Bavaria",48.7101182,11.8069746,Germany
+"Hadnall, Shropshire",52.78025155,-2.718444083355344,United Kingdom
+"Atherstone, Warwickshire",52.5772439,-1.5433954,United Kingdom
+"Petaluma, California",38.270022,-122.60612241304348,United States of America
+"Coralville, Iowa",41.6764044,-91.5804475,United States of America
+"Alpine, Wyoming",43.161566,-111.01945677102535,
+"Orange , California",33.7500378,-117.8704931,United States of America
+"Berkeley, California",37.8708393,-122.2728639,United States of America
+"Rochester, Minnesota",44.0234387,-92.4630182,United States of America
+"Port Moody, British Columbia",49.2822243,-122.8293424,Canada
+"Boardman, Oregon",45.839855,-119.7005834,United States of America
+"Northville, Michigan",42.4310806,-83.4832262,United States of America
+"Bloomington, Illinois",40.4731073,-88.9941403,United States of America
+"Greensboro, Vermont",44.5768593,-72.2960634,United States of America
+"New Westminster, British Columbia",49.2067726,-122.9108818,Canada
+"Moorpark, California",34.285558,-118.8820414,United States of America
+"Prineville, Oregon",44.2998261,-120.834972,United States of America
+"Winter Garden, Florida",28.5502685,-81.59259746085962,United States of America
+"Bracebridge, Ontario",45.041508,-79.310989,Canada
+"Framingham, Massachusetts",42.2792625,-71.416172,United States of America
+"Schiller Park, Illinois",41.9558637,-87.8708965,United States of America
+"St Paul, Minnesota",44.9504037,-93.1015026,United States of America
+"Long Beach, California",33.7690164,-118.1916048,United States of America
+"McCall, Idaho",44.911006,-116.0987364,United States of America
+"Cape May, New Jersey",39.1765386,-74.8012119,United States of America
+"Maplewood, Missouri",38.6125521,-90.3245599,United States of America
+"San Carlos, California",37.504936,-122.2618236,United States of America
+"Cleveland, Ohio",41.5051613,-81.6934446,United States of America
+"Santa Barbara, California",34.4221319,-119.7026673,United States of America
+"Milwaukie, Oregon",45.4453901,-122.6392889,United States of America
+"Parkersburg, West Virginia",39.2699565,-81.5506916,United States of America
+"Kaltenberg, Bavaria",48.2237631,10.6454667,Germany
+"Tokyo                      , Japan",35.6828387,139.7594549,Japan
+"Dania Beach, Florida",26.050783950000003,-80.14612392627231,United States of America
+"Seaforth, Ontario",43.5534328,-81.3934183,Canada
+"Summerland, British Columbia",49.6,-119.666667,Canada
+"Hood River, Oregon",45.7053101,-121.5217927,United States of America
+"Sheffield, South Yorkshire",53.3806626,-1.4702278,United Kingdom
+"Harrogate, North Yorkshire",53.9921491,-1.5391039,United Kingdom
+"Walland, Tennessee",35.7281419,-83.8132305,United States of America
+"Lye, West Midlands",52.4599417,-2.1160497,United Kingdom
+"Grafing, Bavaria",48.0502855,11.9661337,Germany
+"Abbotsford, British Columbia",49.0521162,-122.3294792,Canada
+"Florissant, Missouri",38.7919683,-90.3227803,United States of America
+"Ardmore, Pennsylvania",40.0067786,-75.2854622,United States of America
+"Beamsville, Ontario",43.1654577,-79.4751839,Canada
+"Gatineau, Quebec",45.4283596,-75.7106204,Canada
+"Santa Rosa Beach, Florida",30.3466423,-86.2307992,United States of America
+"Chatham , Ontario",42.4057219,-82.1853837,Canada
+"Kelowna, British Columbia",49.889326,-119.498291,Canada
+"Port Coquitlam, British Columbia",49.2621643,-122.7805425,Canada
+"Würzburg, Bavaria",49.79245,9.932966,Germany
+"Plover, Wisconsin",44.4563579,-89.544007,United States of America
+"Tring, Hertfordshire",51.7940357,-0.6609205,United Kingdom
+"Madison, Wisconsin",43.074761,-89.3837613,United States of America
+"Hooksett, New Hampshire",43.096972,-71.465378,United States of America
+"Polegate, East Sussex",50.8231619,0.245475,United Kingdom
+"Charleston, West Virginia",38.3505995,-81.6332812,United States of America
+"Bath, Somerset",51.3813864,-2.3596963,United Kingdom
+"Ponderay, Idaho",48.3054806,-116.5338037,United States of America
+"Trinidad, Colorado",37.169397,-104.5005411,United States of America
+"Aston, Pennsylvania",39.87265415,-75.44054729049847,United States of America
+"Livingston , New York",42.7360902,-77.7781416,United States of America
+"Lakewood, New York",42.104224,-79.333104,United States of America
+"Tampa, Florida",27.9477595,-82.458444,United States of America
+"Halethorpe, Maryland",39.2398292,-76.6802471,United States of America
+"Bend, Oregon",44.0581728,-121.3153096,United States of America
+"Moorhead, Minnesota",46.8739081,-96.7538674,United States of America
+"Greenville, South Carolina",34.851354,-82.3984882,United States of America
+"Prescott, Arizona",34.5399962,-112.4687616,United States of America
+"Divide, Colorado",38.9419356,-105.1572092,United States of America
+"Rochdale, Greater Manchester",53.6153659,-2.1557561,United Kingdom
+"Castleford, West Yorkshire",53.722353,-1.3512543,United Kingdom
+"Holland, Michigan",42.7876022,-86.1090828,United States of America
+"Kaltenburg, Lower Saxony",51.5072534,9.9615543,Germany
+"Pilgrims Hatch, Essex",51.6401039,0.2871626,United Kingdom
+"Beach Park, Illinois",42.4222435,-87.8572955,United States of America
+"Berkeley Springs, West Virginia",39.6267975,-78.2279514,United States of America
+"Waterloo, Illinois",38.3358857,-90.1498341,United States of America
+"Allendale, Northumberland",54.8972605,-2.2590355,United Kingdom
+"Waterford, Virginia",39.188317,-77.6115402,United States of America
+"Green Bay, Wisconsin",44.5126379,-88.0125794,United States of America
+"Derby, Connecticut",41.3223611,-73.0890324,United States of America
+"Williamsburg, Virginia",37.27892105,-76.69448606443117,United States of America
+"Kitchener, Ontario",43.453168,-80.494423,Canada
+"Croydon, Greater London",51.3713049,-0.101957,United Kingdom
+"Pender Island, British Columbia",48.7786931,-123.2816111,Canada
+"Freeport, Maine",43.857307,-70.10376,United States of America
+"Brossard, Quebec",45.4554829,-73.4678904,Canada
+"South Burlington, Vermont",44.4669941,-73.1709604,United States of America
+"Capitola, California",36.9762927,-121.9540577,United States of America
+"Ponders End, Greater London",51.6428463,-0.0347837,United Kingdom
+"Middleton, Greater Manchester",53.5484755,-2.1972661,United Kingdom
+"Woodford, Northamptonshire",52.3819912,-0.5806142,United Kingdom
+"Las Vegas, Nevada",36.1672559,-115.1485163,United States of America
+"Bronx, New York",40.8466508,-73.8785937,United States of America
+"Marengo, Ohio",40.4008945,-82.8107329,United States of America
+"Pottsville, Pennsylvania",40.6851324,-76.1953701,United States of America
+"Flookburgh, Cumbria",54.17438,-2.9737924,United Kingdom
+"Canal Winchester, Ohio",39.842920500000005,-82.81594617222837,United States of America
+"Tumwater, Washington",47.0080655,-122.9103689,United States of America
+"Cricklewood, Greater London",51.5566986,-0.2157507,United Kingdom
+"Fort Mcmurray, Alberta",56.7291997,-111.3885221,
+"Beersel, Belgium",50.76837285,4.305109802911852,Belgium
+"Penrith, Cumbria",54.6639133,-2.7522047,United Kingdom
+"Chula Vista, California",32.6400541,-117.0841955,United States of America
+"Falmouth, Cornwall",50.1552197,-5.0688262,United Kingdom
+"Londonderry , New Hampshire",42.8650869,-71.3739532,United States of America
+"Ocean, New Jersey",39.977818,-74.3319287,United States of America
+"Houston, Texas",29.7589382,-95.3676974,United States of America
+"South Molton, Devon",51.0170696,-3.8330599,United Kingdom
+"Otterfing, Bavaria",47.9100294,11.6712434,Germany
+"Rhinelander, Wisconsin",45.636623,-89.412075,United States of America
+"Chapel Hill, North Carolina",35.9131542,-79.05578,United States of America
+"Manchester, New Hampshire",42.9956397,-71.4547891,United States of America
+"Frankfurt, Hesse",50.1106444,8.6820917,
+"Manchester , New Hampshire",42.9956397,-71.4547891,United States of America
+"Frelighsburg, Quebec",45.056061,-72.836609,Canada
+"Solon, Iowa",41.8072344,-91.4940604,United States of America
+"Anchorage, Alaska",61.2163129,-149.8948523,United States of America
+"Ammerndorf, Bavaria",49.4219506,10.8516193,Germany
+"Oberhausen, North Rhine-Westphalia",51.4696137,6.8514435,Germany
+"Sheffield , South Yorkshire",53.3806626,-1.4702278,United Kingdom
+"Cornelius, North Carolina",35.4817982,-80.8589501,United States of America
+"Shoreham, Vermont",43.893687,-73.316231,United States of America
+"Derry, New Hampshire",42.8808677,-71.3264492,United States of America
+"Kansas City, Missouri",39.100105,-94.5781416,United States of America
+"Walsall, West Midlands",52.5847949,-1.9822687,United Kingdom
+"Ljubljana, Slovenia",46.0499803,14.5068602,Slovenia
+"Oceanside, California",33.1958696,-117.3794834,United States of America
+"Huntington Beach, California",33.6783336,-118.0000166,United States of America
+"Plainfield, Indiana",39.7042123,-86.3994387,United States of America
+"Montignies-sur-Roc, Belgium",50.3680079,3.7333223,Belgium
+"Dortmund, North Rhine-Westphalia",51.5142273,7.4652789,Germany
+"Temecula, California",33.4946353,-117.1473661,United States of America
+"Erding, Bavaria",48.3064441,11.9076579,Germany
+"Danville, California",37.8215929,-121.9999606,United States of America
+"Alameda, California",37.6090291,-121.899142,United States of America
+"Las Cruces, New Mexico",32.3140354,-106.7798078,United States of America
+"Ellwangen, Baden-Württemberg",48.9615975,10.131975,Germany
+"Novato, California",38.1061979,-122.5681191,United States of America
+"Münster, North Rhine-Westphalia",51.9625101,7.6251879,Germany
+"Lainate, Italy",45.5717302,9.028461,Italy
+"Buffalo, Missouri",37.6439289,-93.0924093,United States of America
+"Rongy , Belgium",50.50665205,3.3815632027096587,Belgium
+"Sudbury, Suffolk",52.0401524,0.7299495,United Kingdom
+"Shepton Mallet, Somerset",51.1909451,-2.5461298,United Kingdom
+"Reedham, Norfolk",52.5596025,1.5659946,United Kingdom
+"Kennebunk, Maine",43.384092,-70.545273,United States of America
+"Rosenheim, Bavaria",47.8539273,12.127262,Germany
+"Moos, Bavaria",48.7520542,12.9624718,Germany
+"Miesbach, Bavaria",47.790025,11.8335417,Germany
+"Buttenheim-Dreuschendorf, Bavaria",,,
+"Luton, Bedfordshire",51.877864200000005,-0.41062319261577607,United Kingdom
+"Whitbourne, Herefordshire",52.205142800000004,-2.421622587458483,United Kingdom
+"Hamburg, Hamburg",47.7630597,-99.51457,United States of America
+"Neumünster, Schleswig-Holstein",54.0757442,9.9815377,Germany
+"Bad Köstritz, Thuringia",50.9301118,12.0113701,Germany
+"Sonthofen, Bavaria",47.5135363,10.281931,Germany
+"Le Roeulx, Belgium",50.5034034,4.112245,Belgium
+"Fredericton, New Brunswick",45.966425,-66.645813,Canada
+"Eichendorf-Adldorf, Bavaria",,,
+"Masham, North Yorkshire",54.2220086,-1.6564736,United Kingdom
+"Berlin, Maryland",38.3226154,-75.2176892,United States of America
+"Mount Pleasant, South Carolina",32.7940651,-79.8625851,United States of America
+"Cork, Ireland",51.8979282,-8.4705806,Ireland
+"Hallerndorf, Bavaria",49.7595157,10.9790956,Germany
+"Velburg-Lengenfeld, Bavaria",49.2391408,11.6351957,Germany
+"Blainville, Quebec",45.67932,-73.87619,Canada
+"Heathfield , East Sussex",50.9717443,0.2517025,United Kingdom
+", North Rhine-Westphalia",51.4781796,7.5542336,Germany
+"Thalmässing, Bavaria",49.0879604,11.2199593,Germany
+"Höchstadt an der Aisch, Bavaria",49.7046104,10.8077534,Germany
+"Abensberg, Bavaria",48.8167,11.85,Germany
+"Farnham, Quebec",45.2831,-72.974968,Canada
+"Dewey Beach, Delaware",38.6927374,-75.0748044,United States of America
+"Bamberg, Bavaria",49.8916044,10.8868478,Germany
+"Newton Abbot, Devon",50.5296441,-3.6112097,United Kingdom
+"Ettal, Bavaria",47.5692548,11.0939733,Germany
+"Henderson , Nevada",36.0301134,-114.9826194,United States of America
+"Bromley, Greater London",51.4028046,0.0148142,United Kingdom
+"Weißenohe, Bavaria",49.6307659,11.2547781,Germany
+"Tillamook, Oregon",45.455921,-123.844429,United States of America
+"Kulmbach, Bavaria",50.1008448,11.4479149,Germany
+"Asheboro, North Carolina",35.7079146,-79.8136446,United States of America
+"Viereth-Weiher, Bavaria",49.9124842,10.7526505,Germany
+"Richmond, British Columbia",49.163168,-123.137414,Canada
+"Perth, Ontario",43.4935991,-81.0164111,Canada
+"Bancroft, Ontario",45.0570769,-77.8537127,Canada
+"BERLIN, Berlin",46.3785823,-98.4898183,United States of America
+"Buckhorn, Ontario",44.5567327,-78.3484101,Canada
+"Lindsay, Ontario",44.3551266,-78.7369939,Canada
+"Murnau, Bavaria",47.6778816,11.2011903,Germany
+"Gulpen, Netherlands",50.80313155,5.88621123978734,The Netherlands
+"Toronto , Ontario",43.6534817,-79.3839347,Canada
+"Lacombe, Alberta",52.4727515,-113.733215,Canada
+"Percé, Quebec",48.5222989,-64.2136423,Canada
+"Laubus-Eschbach, Hesse",50.404005049999995,8.330101439904997,Germany
+"Carlsbad, New Mexico",32.4257456,-104.2376121,United States of America
+"Detmold, North Rhine-Westphalia",51.936284,8.8791526,Germany
+"PANTEGO, Texas",32.7142988,-97.1564002,United States of America
+"Bad Staffelstein-Stublang, Bavaria",,,
+"Little Downham, Cambridgeshire",52.4336745,0.2429403,United Kingdom
+"Hereford, Herefordshire",52.0553813,-2.7151735,United Kingdom
+"Rochester, Michigan",42.680588,-83.1338214,United States of America
+"Malle, Belgium",51.2970123,4.6933094,Belgium
+"Warstein , North Rhine-Westphalia",51.4458105,8.3536824,Germany
+"St. Austell, Cornwall",50.338466,-4.7882104,United Kingdom
+"Bad Rappenau, Baden-Württemberg",49.2393031,9.101268,Germany
+"Crailsheim, Baden-Württemberg",49.1365626,10.0720195,Germany
+"Fürth, Bavaria",49.477263,10.989616,Germany
+"Düsseldorf, North Rhine-Westphalia",51.2254018,6.7763137,Germany
+"Grafenhausen, Baden-Württemberg",47.7749844,8.2544945,Germany
+"Scheyern, Bavaria",48.5020343,11.4555839,Germany
+"Gunzenhausen-Oberasbach, Bavaria",49.1120334,10.7820767,Germany
+"Mukilteo, Washington",47.9474034,-122.3036992,United States of America
+"Roslyn, Washington",47.2239604,-120.9941144,United States of America
+"Fort Bragg, California",39.4534731,-123.81491141575003,United States of America
+"San Cristobal, Panama",8.41740565,-82.44198220088266,Panama
+"Centralia, Washington",46.7204489,-122.9614303,United States of America
+"Neuhaus an der Pegnitz, Bavaria",49.6280956,11.5516616,Germany
+"Ukiah, California",39.1501662,-123.2077861,United States of America
+"Maxwelton, West Virginia",37.8662319,-80.4097972,United States of America
+"Rettenberg/Oberallgäu, Bavaria",47.5749325,10.2922464,Germany
+"Ichtegem, Belgium",51.08743265,3.029462506474408,Belgium
+"Romrod, Hesse",50.7145445,9.2187448,Germany
+"Kempten, Bavaria",47.7267063,10.3168835,Germany
+"Newport, Oregon",44.636755,,
+"Seligenstadt, Hesse",50.0347055,8.9593719,Germany
+"Dour-Blaugies, Belgium",50.37098255,3.826960427500339,Belgium
+"Eschwege, Hesse",51.186867,,
+"Rimouski, Quebec",48.450155,-68.529968,Canada
+"Aurora, Colorado",39.729432,-104.8319196,United States of America
+"San Gabriel, California",34.0991325,-118.1086041,United States of America
+"Truth or Consequences, New Mexico",33.1283485,-107.2529059,United States of America
+"Wimbledon, Greater London",51.4214787,-0.2064027,United Kingdom
+"Elk Grove, California",38.4087993,-121.3716178,United States of America
+"Fort Monroe, Virginia",37.00427465,,
+"White Salmon, Washington",45.7276194,-121.4864619,United States of America
+"Dallas , Texas",32.7762719,-96.7968559,United States of America
+"Carlstadt , New Jersey",40.8403778,-74.0906974,United States of America
+"Mount Airy, Maryland",39.3762145,-77.154704,United States of America
+"Adkins, Texas",29.3930129,-98.2372329,United States of America
+"Eugene, Oregon",44.0505054,-123.0950506,United States of America
+"Juneau, Alaska",58.3019496,-134.419734,United States of America
+"Farmers Branch, Texas",32.9265137,-96.8961151,United States of America
+"Dubuque, Iowa",42.5006217,-90.6647967,United States of America
+"Cedar Rapids, Iowa",41.9758872,-91.6704053,United States of America
+"Johnson City, Texas",30.2773819,-98.4090218,United States of America
+"Centennial, Colorado",39.5680644,-104.97783081285026,United States of America
+"Gulfport, Mississippi",30.3674198,-89.0928155,United States of America
+"Santa Fe, New Mexico",35.6869996,-105.9377997,United States of America
+"Fort Wayne, Indiana",41.0799898,-85.1386015,United States of America
+"Sparks, Nevada",39.5404679,-119.7487235,United States of America
+"Bamber Bridge, Lancashire",53.7291055,-2.6607002,United Kingdom
+"Alcester, Warwickshire",52.2176183,-1.8684418,United Kingdom
+"Patchogue, New York",40.7656539,-73.0151084,United States of America
+"Dartmouth, Nova Scotia",44.6799707,-63.5720232,Canada
+"Hardley, Hampshire",50.8411142,-1.3907109,United Kingdom
+"Zoeterwoude, Netherlands",52.11718945,4.503459502079346,The Netherlands
+"Maidstone, Kent",51.2748258,0.5231646,United Kingdom
+"Shanghai, China",31.2322758,121.4692071,China
+"Mellor Brook, Lancashire",53.7795564,-2.5611941,United Kingdom
+"Calgary, Alberta",51.0534234,-114.0625892,Canada
+"Gibsons, British Columbia",49.4006197,-123.5089186,Canada
+"Willoughby, Ohio",41.6397696,-81.4065011,United States of America
+"Terre Haute, Indiana",39.4667025,-87.4139119,United States of America
+"Salem, Connecticut",41.4903761,-72.275359,United States of America
+"San Antonio , Texas",29.4246002,-98.4951405,United States of America
+"Grand Prairie, Alberta",50.7684008,-112.8577374,Canada
+"Silver Spring, Maryland",38.9959461,-77.0276231,United States of America
+"Winchester, Kentucky",37.990079,-84.1796503,United States of America
+"Penticton, British Columbia",49.494891,-119.594421,Canada
+"Nanaimo, British Columbia",49.1637594,-123.9379719,Canada
+"New Britain, Connecticut",41.6612104,-72.7795419,United States of America
+"Winnipeg, Manitoba",49.8955367,-97.1384584,Canada
+"Whitby, Ontario",43.899871,-78.940201,Canada
+"Johnson City, Tennessee",36.3134398,-82.3534728,United States of America
+"Yakima, Washington",46.601557,-120.5108421,United States of America
+"Ankeny, Iowa",41.7318715,-93.6003837,United States of America
+"Lincoln, California",38.859829500000004,-121.34239205792437,United States of America
+"Val-David, Quebec",46.0282815,-74.2065632,Canada
+"Repentigny, Quebec",45.7326055,-73.4528307,Canada
+"Lachute, Quebec",45.6560478,-74.3401388,Canada
+"Bocholt, Belgium",51.192481799999996,5.599558194626788,Belgium
+"Washougal, Washington",45.5819594,-122.3479921,United States of America
+"Sunnyside, Washington",46.3246419,-120.0081898,United States of America
+"Perryville, Missouri",37.7275127,-89.8645455,United States of America
+"Oceanside, New York",40.633591499999994,-73.63765271803683,United States of America
+"Kenora, Ontario",49.766215,-94.4893528,Canada
+"Atlanta, Georgia",33.7490987,-84.3901849,United States of America
+"Leduc, Alberta",53.2607636,-113.5501238,Canada
+"Newton, Iowa",41.6996927,-93.0537592,United States of America
+"Raleigh , North Carolina",35.7803977,-78.6390989,United States of America
+"Delta, British Columbia",49.0846258,-123.0579384,Canada
+"Brookshire, Texas",29.7860643,-95.9510661,United States of America
+"Virginia Beach, Virginia",36.8529841,-75.9774183,United States of America
+"Coralville , Iowa",41.6764044,-91.5804475,United States of America
+"Ventura, California",34.4458248,-119.0779359,United States of America
+"Milldale, Connecticut",41.565931,-72.8917685,United States of America
+"Jarvis, Ontario",42.8844706,-80.1139414,Canada
+"Colts Neck, New Jersey",40.2876108,-74.1723652,United States of America
+"Edmonton, Greater London",51.6203392,-0.0659791,United Kingdom
+"Macclesfield, Cheshire",53.2606635,-2.1255158,United Kingdom
+"Much Marcle, Herefordshire",51.9927761,-2.5001759,United Kingdom
+"St Agnes, Cornwall",50.3122758,-5.2037934,United Kingdom
+"Williamsville, New York",42.9637836,-78.7377258,United States of America
+"Craven Arms, Shropshire",52.4398662,-2.8351041,United Kingdom
+"Poole, Dorset",50.7179472,-1.981521,United Kingdom
+"Ludlow, Shropshire",52.3718705,-2.715111962303105,United Kingdom
+"Tewkesbury, Gloucestershire",51.9937857,-2.1549574,United Kingdom
+"Eagle River, Alaska",61.2971518,-149.5087177,United States of America
+"Kenmore, Washington",47.7573202,-122.2440148,United States of America
+"Columbia, Maryland",4.6104399,-74.2038025,Colombia
+"North Vancouver, British Columbia",49.3207133,-123.0737831,Canada
+"Pittsburgh, Pennsylvania",40.4416941,-79.9900861,United States of America
+"Vancouver, Washington",45.6306954,-122.6744557,United States of America
+"Jackson, Wyoming",43.479965,-110.761815,United States of America
+"Sudbury , Suffolk",52.0401524,0.7299495,United Kingdom
+"Roswell, Georgia",34.02332,-84.360022,United States of America
+"Durham, Durham",35.996653,-78.9018053,United States of America
+"Forchheim, Bavaria",49.7186937,11.0596433,Germany
+"Staveley, Cumbria",54.3784018,-2.8197952,United Kingdom
+"Tottori Prefecture, Japan",35.3555075,133.8678525,Japan
+"Oakland, California",37.8044557,-122.2713563,United States of America
+"Madison , Wisconsin",43.074761,-89.3837613,United States of America
+"Little Rock, Arkansas",34.7464809,-92.2895948,United States of America
+"Bay Shore, New York",40.742924,-73.25731042134166,United States of America
+"Fawn Grove, Pennsylvania",39.727882,-76.4519078,United States of America
+"Lake Barrington, Illinois",42.212614,-88.16715437057547,United States of America
+"Red Deer, Alberta",52.269838,-113.818359,Canada
+"Victor, Idaho",43.602698,-111.111332,United States of America
+"Northport, New York",40.9040576,-73.34201693018868,United States of America
+"Sterling, Virginia",39.0016194,-77.4032011,United States of America
+", New York",40.7127281,-74.0060152,United States of America
+"Niles, Illinois",42.0289319,-87.8122348,United States of America
+"Peckham, Greater London",51.4734122,-0.0699321,United Kingdom
+"York, North Yorkshire",53.9590555,-1.0815361,United Kingdom
+"Salisbury, Wiltshire",51.0796895,-1.8074237640795872,United Kingdom
+"Hector, New York",42.5006271,-76.8724586,United States of America
+"Falls Church, Virginia",38.882334,-77.1710914,United States of America
+"Brattleboro, Vermont",42.8509152,-72.5578678,United States of America
+"Malden, Massachusetts",42.4250964,-71.066163,United States of America
+"Lemont, Illinois",41.673642,-88.0017261,United States of America
+"Claremont, California",34.0966764,-117.7197785,United States of America
+"Casselman, Ontario",45.313529,-75.086746,Canada
+"Binghamton , New York",42.096968,-75.914341,United States of America
+"Wilmington, North Carolina",34.2257282,-77.9447107,United States of America
+"Napa, California",38.2971367,-122.2855293,United States of America
+"Wolcott, Connecticut",41.6023196,-72.9867718,United States of America
+"Salem, New Hampshire",42.7884226,-71.2008933,United States of America
+"Rogers, Arkansas",36.3320197,-94.1185366,United States of America
+"Gardner City, Idaho",43.210157,-112.3243434,United States of America
+"Rocklin, California",38.7907339,-121.2357828,United States of America
+"Chincoteague, Virginia",37.9331799,-75.3788141,United States of America
+"Granville, Ohio",40.0681192,-82.5196037,United States of America
+"Delmar, New York",42.62378835,-73.83793894179314,United States of America
+"Alton, Illinois",38.8908583,-90.1843091,United States of America
+"Westville, New Jersey",39.8700552,-75.1265177,United States of America
+"St. Paul, Minnesota",44.9504037,-93.1015026,United States of America
+"Sawyer, Michigan",41.8853207,-86.5894666,United States of America
+"Robbinsdale, Minnesota",45.0313156,-93.3395843,United States of America
+"Camas, Washington",45.5911103,-122.4122248,United States of America
+"Pickerington, Ohio",39.896277299999994,-82.77319049748806,United States of America
+"Streatham, Greater London",51.429769,-0.1311105,United Kingdom
+"Somerset West, Wisconsin",45.1244108,-92.6735365,United States of America
+"Wallsend, Tyne & Wear",54.9911912,-1.5342042,United Kingdom
+"St Jacob's, Ontario",43.532949,-80.554627,Canada
+"Ledbury, Herefordshire",52.0357457,-2.4287821,United Kingdom
+"Portsmouth, Hampshire",50.8036831,-1.075614,United Kingdom
+"Stowe, Vermont",44.4653741,-72.6860186,United States of America
+"San Jose, California",37.3361905,-121.8905833,United States of America
+"Tacoma, Washington",47.2495798,-122.4398746,United States of America
+"Oxford, Connecticut",41.4351795,-73.1172769,United States of America
+"Savoy, Illinois",40.054753,-88.2517165,United States of America
+"Mashpee, Massachusetts",41.6484421,-70.4811383,United States of America
+"Kent, Connecticut",41.724646,-73.4770859,United States of America
+"Locations in Ogden and Layton, Utah",,,
+"Terrebonne, Quebec",45.7081005,-73.6515157,Canada
+"Lansdale, Pennsylvania",40.2414952,-75.2837862,United States of America
+"Bozeman, Montana",45.6794293,-111.0440474,
+"Everett, Massachusetts",42.40843,-71.0536625,United States of America
+"Perham, Minnesota",46.5944042,-95.5725415,United States of America
+"Lübz, Mecklenburg-Vorpommern",53.4615326,12.0293514,Germany
+"Henniker, New Hampshire",43.179645,-71.822433,United States of America
+"Tuscaloosa, Alabama",33.2095614,-87.5675258,United States of America
+"Worms, Rhineland-Palatinate",49.6302618,8.3620898,Germany
+"Pennsauken, New Jersey",39.9562238,,
+"Portland , Oregon",45.5202471,-122.6741949,United States of America
+"Nederland, Colorado",51.8077933,4.7088872,The Netherlands
+"Lexington, Kentucky",38.0464066,-84.4970393,United States of America
+"Camarillo, California",34.2164099,-119.0376573,United States of America
+"Blyth, Ontario",43.7365991,-81.4294024,Canada
+"Winscombe, Somerset",51.3139428,-2.8334616,United Kingdom
+"Jonquière, Quebec",48.3820121,-71.147339,Canada
+"Hamont-Achel, Belgium",51.2547636,5.5128696,Belgium
+"Greensboro Bend, Vermont",44.5489422,-72.2648257,United States of America
+"Coalville, Leicestershire",52.7257981,-1.3741375,United Kingdom
+"Williamston, Michigan",42.689151,-84.2832798,United States of America
+"Healdsburg, California",38.6298355,-122.85900211842106,United States of America
+"Milwaukee, Wisconsin",43.0349931,-87.922497,United States of America
+"Waitsfield, Vermont",44.192132,-72.8227076,
+"Williston, Vermont",44.4374044,-73.0689621,United States of America
+"Oakland Park, Florida",26.180144300000002,-80.13720059548373,United States of America
+"Boonville, California",39.0091667,-123.3661111,United States of America
+"Dayton, Ohio",39.7589478,-84.1916069,United States of America
+"Bellaire, Michigan",44.980282,-85.211173,United States of America
+"Alverskirchen/Everswinkel, North Rhine-Westphalia",51.912883,7.809908,Germany
+"Kennesaw, Georgia",34.0234337,-84.6154897,United States of America
+"Horsham, West Sussex",51.0630273,-0.3295028,United Kingdom
+"Alpine, California",38.5893934,-119.8345013,United States of America
+"Andechs, Bavaria",47.9746379,11.1828225,Germany
+"Carlsbad, California",33.1580933,-117.3505966,United States of America
+"Solana Beach, California",32.9905597,-117.2691316,United States of America
+"Baker City, Oregon",44.7748748,-117.8343848,United States of America
+"Louisville, Kentucky",38.2542376,-85.759407,United States of America
+"Papillion, Nebraska",41.1544433,-96.0422378,United States of America
+"Watervliet, Michigan",42.1867052,-86.2605776,United States of America
+"Diksmuide, Belgium",51.0333408,2.8647185,Belgium
+"Pennington, New Jersey",40.3284403,,
+"Saignelégier, Switzerland",47.2557997,6.9963585,Switzerland
+"Islington, Greater London",51.5384287,-0.0999051,United Kingdom
+"Albuquerque, New Mexico",35.0841034,-106.6509851,United States of America
+"Olympia, Washington",47.0451022,-122.8950075,United States of America
+"Cologne, North Rhine-Westphalia",50.938361,6.959974,Germany
+"Middleburg Heights, Ohio",41.3614401,-81.812912,United States of America
+"Diss, Suffolk",52.3356145,0.9595305,United Kingdom
+"Middletown, New York",40.8397222,-73.8316667,United States of America
+"Ilminster, Somerset",50.9267192,-2.9102756,United Kingdom
+"Dexter, Michigan",42.3383697,-83.8885553,United States of America
+"Firle, East Sussex",50.8461727,0.10011691011539427,United Kingdom
+"La Tuque, Quebec",47.441092,-72.78511,Canada
+"McMinnville, Oregon",45.2100367,-123.194463,United States of America
+"Tempe, Arizona",33.4255056,-111.9400125,United States of America
+"Monterey, California",36.2231079,-121.3877428,United States of America
+"Kernville , California",35.7330735,-118.43394593561493,United States of America
+"Hampton, New Hampshire",42.9304376,-70.824896,United States of America
+"Bridgman, Michigan",41.9430986,-86.5569659,United States of America
+"State College, Pennsylvania",40.7944504,-77.8616386,United States of America
+"Boynton Beach, Florida",26.5256179,-80.0666026,United States of America
+"Granby, Quebec",45.3990409,-72.721834,Canada
+"Keighley, West Yorkshire",53.86764515,-1.9387085955617687,United Kingdom
+"New Ulm, Minnesota",44.3140261,-94.4614177,United States of America
+"Meadville, Pennsylvania",41.641445,-80.151449,United States of America
+"El Segundo, California",33.917028,-118.4156337,United States of America
+"Flossmoor, Illinois",41.5428123,-87.6847684,United States of America
+"Maroldsweisach, Bavaria",50.197294,10.6606004,Germany
+"Jupiter, Florida",26.9260832,-80.12108914060954,United States of America
+"Sacramento, California",38.5815719,-121.4943996,United States of America
+"Redlands, California",34.055735,-117.1888961,United States of America
+"Bad Staffelstein, Bavaria",50.1028062,11.0006441,
+"Farmville, North Carolina",35.5954381,-77.5852496,United States of America
+"Pottstown and Phoenixville, Pennsylvania",,,
+"Elland, West Yorkshire",53.6858377,-1.8377141,United Kingdom
+"Didsbury, Alberta",51.6607926,-114.1372475,Canada
+"Wrington, Somerset",51.3616116,-2.7637231,United Kingdom
+"Blandford Forum, Dorset",50.8652479,-2.1571168563645413,United Kingdom
+"Chepstow, Gloucestershire",51.5030314,-2.4939219,United Kingdom
+"Marshall, Michigan",42.2721367,-84.9642008,United States of America
+"Hauzenberg, Bavaria",48.6551971,13.6276784,Germany
+"Irlbach, Bavaria",48.85168845,12.741544258715113,Germany
+"Bad Tölz / Oberbayern, Bavaria",47.7610641,11.5582933,Germany
+"Charleston, South Carolina",32.7876012,-79.9402728,United States of America
+"Battle Creek, Michigan",42.3192548,-85.1824269,United States of America
+"Saint-Basile-le-Grand, Quebec",45.526246,-73.2876515,Canada
+"Ringwood, Hampshire",50.829262299999996,-1.7711280913147434,United Kingdom
+"Sopron, Hungary",47.6803063,16.5983457,Hungary
+"La Crosse, Wisconsin",43.8014053,-91.2395429,United States of America
+"Glenfield, Leicestershire",52.6499184,,
+"Surrey, British Columbia",49.1913033,-122.8491439,Canada
+"Twickenham, Greater London",51.4467444,-0.3281887,United Kingdom
+"Holborn, Greater London",51.5179341,-0.1195284,United Kingdom
+"Croydon, Cambridgeshire",52.1277704,-0.0813098,United Kingdom
+"Shiner, Texas",29.429978,,
+"Neuzelle, Brandenburg",52.0908428,14.6493003,Germany
+"Nymburk, Czech Republic",50.186331,15.0417306,Czech Republic
+"Pisgah Forest, North Carolina",35.2542808,,
+"Ingolstadt, Bavaria",48.7630165,11.4250395,Germany
+"Golden, Colorado",39.755543,-105.2210997,United States of America
+"Mount Vernon, Washington",48.4200462,-122.32642,United States of America
+"Lyme Regis, Dorset",50.7361334,-2.9317343744389417,United Kingdom
+"Beverley, East Yorkshire",53.8432607,-0.4317193498925199,United Kingdom
+"Milwaukee                       , Wisconsin",43.0349931,-87.922497,United States of America
+"Valparaiso, Chile",-33.0458456,-71.6196749,Chile
+"Rüthen, North Rhine-Westphalia",51.4911392,8.4330329,Germany
+"Homburg, Saarland",49.3181673,7.3340336,Germany
+"Löbau, Saxony",51.0947288,14.6692423,Germany
+"Salhouse, Norfolk",52.677074,1.4061732,United Kingdom
+"Dereham, Norfolk",52.6802052,0.9386329,United Kingdom
+"Fur, Denmark",56.82145525,9.001823662821717,Denmark
+"Potton, Bedfordshire",52.1305155,-0.2039216156426842,United Kingdom
+"Loughborough, Leicestershire",52.7723859,-1.2077985,United Kingdom
+"St. Gallen, Switzerland",47.4250593,9.3765878,Switzerland
+"Addison, Texas",32.9604305,-96.83025951893629,United States of America
+"Netanya, Israel",32.3286181,34.8566246,Israel
+"Besthorpe, Norfolk",52.5257251,1.03649,United Kingdom
+"Campbell, California",37.2870626,-121.9448818,United States of America
+"Biržu raj., Lithuania",,,
+"Thrupp, Gloucestershire",51.7308622,-2.2016443,United Kingdom
+"Boortmeerbeek, Belgium",50.9815937,4.5729262,Belgium
+"Prince George, British Columbia",53.9128645,-122.7453699,Canada
+"Yerevan, Armenia",40.1776121,44.5125849,Armenia
+"Ingolstadt , Bavaria",48.7630165,11.4250395,Germany
+"Renchen, Baden-Württemberg",48.5873988,8.0143673,Germany
+"Kerava, Finland",60.4034398,25.1041013,Finland
+"Cockerham, Lancashire",53.9626884,-2.8176994,United Kingdom
+"Caracas, Venezuela",10.506098,-66.9146017,Venezuela
+"Flensburg, Schleswig-Holstein",54.7833021,9.4333264,Germany
+"Santa Cruz, California",37.050096,-121.9905908,United States of America
+"Schlüsselfeld, Bavaria",49.7569182,10.6186266,Germany
+"Marion, Montana",48.1055095,,
+"Waynesboro, Virginia",38.0652286,,
+"West Seneca, New York",42.83943505,,
+"Greenwich, Greater London",51.4820845,,
+"Northampton, Northamptonshire",52.2381355,,
+"Saarbrücken, Saarland",49.234362,6.996379,Germany
+"Issum, North Rhine-Westphalia",51.5347321,6.4245085,Germany
+"Eye, Suffolk",52.3226292,1.1463709,United Kingdom
+"Brampton, Ontario",43.6858146,-79.7599337,Canada
+"Ferguson, Missouri",38.744707,-90.3038975,United States of America
+"Holzminden, Lower Saxony",51.828835,9.4466591,Germany
+"Zusmarshausen, Bavaria",48.399896,10.5957313,Germany
+"New Mills, Derbyshire",53.365432,-2.0012794,United Kingdom
+"Stralsund, Mecklenburg-Vorpommern",54.3159851,13.0904622,Germany
+"Preston, Lancashire",53.7593363,-2.6992717,United Kingdom
+"Penryn, Cornwall",50.1685495,-5.1034063,United Kingdom
+"Casablanca, Morocco",33.5950627,-7.6187768,Morocco
+"Gooik, Belgium",50.7979738,4.102984067451088,Belgium
+"Frankenthal, Rhineland-Palatinate",49.5445804,8.3540061,Germany
+"Bamberg-Gaustadt, Bavaria",49.9011239,10.8696356,Germany
+"Skive, Denmark",56.6459244,8.932732160154906,Denmark
+"Abita Springs, Louisiana",30.4785257,-90.0375755,United States of America
+"Lohnbrauhausen, Baden-Württemberg",,,
+"Coventry, West Midlands",52.4081812,-1.510477,United Kingdom
+"New Orleans, Louisiana",29.9499323,-90.0701156,United States of America
+"San Giorgio di Nogaro, Italy",45.8320236,13.2111453,Italy
+"Waterbeach, Cambridgeshire",52.265783,0.1909788,United Kingdom
+"Wallerstein, Bavaria",48.8870756,10.476036,Germany
+"Cambridge, Maryland",38.5714624,-76.0763177,United States of America
+"Limoges, Ontario",45.3341367,-75.2519986,Canada
+"New Braunfels, Texas",29.7028266,-98.1257348,United States of America
+"Bonn, North Rhine-Westphalia",50.735851,7.10066,Germany
+"Upper Marlboro, Maryland",38.8165274,-76.7519753,United States of America
+"Donaueschingen, Baden-Württemberg",47.9534194,8.4959257,Germany
+"Greenfield, Massachusetts",42.6097476,-72.5979752,United States of America
+"Managua, Nicaragua",12.1459907,-86.2746665,Nicaragua
+"Laholm, Sweden",56.50514815,13.150901570201999,Sweden
+"Port St Lucie , Florida",27.2939333,-80.3503283,United States of America
+"Alling, Bavaria",48.1401952,11.3015889,Germany
+"Peine, Lower Saxony",52.3217849,10.2349489,Germany
+"Albany, Oregon",44.6365071,-123.1059324,United States of America
+"Duisburg, North Rhine-Westphalia",51.434999,6.759562,Germany
+"Neenah, Wisconsin",44.1858193,-88.462609,United States of America
+"Schönthal-Rhan, Bavaria",,,
+"Dargun, Mecklenburg-Vorpommern",53.9,12.85,Germany
+"Fairfield, California",38.2493581,-122.0399663,United States of America
+"Missoula, Montana",46.8701049,-113.9952672,United States of America
+"London, Ontario",42.9836747,-81.2496068,Canada
+"Windsor, Ontario",42.317099,-83.0353434,Canada
+"Wschowa, Poland",51.8038354,16.3172771,Poland
+"Mustang, Oklahoma",35.384227,-97.7244813,United States of America
+"Abingdon, Oxfordshire",51.6714842,-1.2779715,United Kingdom
+"Neumarkt in der Oberpfalz, Bavaria",49.279624,11.4594662,Germany
+"Offenburg, Baden-Württemberg",48.4716556,7.944378,Germany
+"Maryland Heights, Missouri",38.7150511,-90.435999,United States of America
+"Erie, Colorado",40.0146297,-105.10395109684542,United States of America
+"Hershey, Pennsylvania",40.2854881,-76.6506001,United States of America
+"Alpirsbach, Baden-Württemberg",48.3456021,8.4033079,Germany
+"Böblingen, Baden-Württemberg",48.684969,9.0113444,Germany
+"Detroit, Michigan",42.3315509,-83.0466403,United States of America
+"Eccles, Greater Manchester",53.4840887,-2.3375175,United Kingdom
+"Waukesha, Wisconsin",43.0116784,-88.2314813,United States of America
+"Herzele, Belgium",50.8848043,3.8935574,Belgium
+"Coraopolis , Pennsylvania",40.5184013,-80.1667247,United States of America
+"Highlands Ranch, Colorado",39.5538771,-104.9694264,United States of America
+"Leamington Spa, Warwickshire",52.2913394,-1.536404,United Kingdom
+"Powell River, British Columbia",49.835676,-124.5244122,Canada
+"Neuhausen, Baden-Württemberg",48.7929606,8.7785614,Germany
+"Unionville, Virginia",38.2598551,-77.9683307,United States of America
+"Cary, North Carolina",35.7883046,-78.7811964,United States of America
+"Buffalo, New York",42.8867166,-78.8783922,United States of America
+"Reigate, Surrey",51.237387,-0.2059492,United Kingdom
+"Norris , Tennessee",36.1956343,-84.067974,United States of America
+"Brixton, Greater London",51.4568044,-0.1167959,United Kingdom
+"Great Shefford, Berkshire",51.4760456,-1.4465484,United Kingdom
+"Hartlepool, Durham",54.6857276,-1.2093696,United Kingdom
+"Lafayette, Colorado",40.0024435,-105.10957997730037,United States of America
+"Monroe, Wisconsin",42.6018298,-89.6392396,United States of America
+"Orleans , Ontario",45.4810323,-75.5100002,Canada
+"Greiz, Thuringia",50.7783814,12.0763533,Germany
+"Laramie, Wyoming",41.311367,-105.591101,United States of America
+"Ham, Gloucestershire",51.6825023,-2.4650342,United Kingdom
+"Park City, Utah",40.6460635,-111.4979741,United States of America
+"Rochester, New York",43.157285,-77.615214,United States of America
+"Butler, Pennsylvania",40.8610205,-79.8952251,United States of America
+"Mifflinburg, Pennsylvania",40.917582,-77.0477501,United States of America
+"Washington DC, Washington DC",38.8949855,-77.0365708,United States of America
+"Saanich, British Columbia",48.4594315,-123.3764946,Canada
+"Thomas, West Virginia",39.1491974,-79.4979721,United States of America
+"Burnaby, British Columbia",49.2433804,-122.9725459,Canada
+"Zwickau, Saxony",,12.4939267,
+"Rudgwick, West Sussex",51.0900272,-0.4491403,United Kingdom
+"Stellenbosch, South Africa",-33.934444,18.869167,South Africa
+"Nennslingen, Bavaria",49.0477208,11.1315613,Germany
+"Framfield, East Sussex",50.9643188,0.1322,United Kingdom
+"Pilsting-Großköllnbach, Bavaria",48.6813342,12.6060611,Germany
+"Walden, New York",41.5612048,-74.1884806,United States of America
+"Hannover, Lower Saxony",52.3744779,9.7385532,Germany
+"Flemington, New Jersey",40.50798155,-74.86064661501618,United States of America
+"Madison, North Carolina",35.8482034,-82.6931063,United States of America
+"Kreuzberg, Berlin",52.4976443,13.411914,Germany
+"Omaha, Nebraska",41.2587459,-95.9383758,United States of America
+"Monument, Colorado",39.06775465,-104.86175880732664,United States of America
+"Sturgeon Bay, Wisconsin",44.8341639,-87.377042,United States of America
+"Ruckersville, Virginia",38.2331873,-78.369175,United States of America
+"Gotha, Thuringia",50.9462725,10.6945265,Germany
+"Port Alberni, British Columbia",49.2343668,-124.8056517,Canada
+"Bellingham, Washington",48.7544012,-122.4788361,United States of America
+"Windsor, California",38.5471327,-122.8163802,United States of America
+"Herne Hill, Greater London",51.4534691,-0.1022835,United Kingdom
+"Deal, Kent",51.2239238,1.4028653,United Kingdom
+"Jever, Lower Saxony",53.5736426,7.9020696,Germany
+"New Wilmington, Pennsylvania",41.1222812,-80.3328428,United States of America
+"Hohenfinow, Brandenburg",52.8115296,13.9240229,Germany
+"Sierre, Switzerland",46.2922522,7.5323195,Switzerland
+"Delray Beach, Florida",26.4614625,-80.0728201,United States of America
+"Chemnitz, Saxony",50.8322608,12.9252977,Germany
+"Leinfelden-Echterdingen, Baden-Württemberg",48.6901796,9.1525725,Germany
+"Islamorada , Florida",24.9242995,-80.6278404,United States of America
+"Bossier City, Louisiana",32.5369356,-93.6952689,United States of America
+"Vaughan, Ontario",43.7941544,-79.5268023,Canada
+"Ardwick, Greater Manchester",53.4676745,-2.2160104,United Kingdom
+"Essingen, Baden-Württemberg",48.8109627,10.0287876,Germany
+"Banjul, Gambia",13.441346450000001,-16.562471332101783,The Gambia
+"Sebastopol, California",38.3845125,-122.8332501583744,United States of America
+"Droxford, Hampshire",50.95555255,-1.1470268995973019,United Kingdom
+"Doral, Florida",25.8184725,-80.35396791309786,United States of America
+"Priors Frome, Herefordshire",52.0483385,-2.6192914,United Kingdom
+"Vieux Fort, St Lucia",13.77296925,,
+"Monrovia, California",,-118.0014517,
+"Sarajevo, Bosnia and Herzegovina",43.8519774,18.3866868,Bosnia and Herzegovina
+"Tottenham, Greater London",51.5976955,-0.0672892,United Kingdom
+"Fernandina Beach, Florida",30.6696818,-81.4625919,United States of America
+"Pittsburgh                      , Pennsylvania",40.4416941,-79.9900861,United States of America
+"Windsor, Berkshire",51.4814958,-0.6133183,United Kingdom
+"Birmingham, Hall Green, West Midlands",,,
+"Malton, North Yorkshire",54.1349419,-0.7965915,United Kingdom
+"Pacific City, Oregon",,-123.9635149,
+"Marietta, Georgia",,-84.5496148,
+"Mriehel, Malta",35.890208349999995,14.466630033801625,Malta
+"Clarksville, Tennessee",36.5277607,-87.3588703,United States of America
+"Herrngiersdorf, Bavaria",48.7895773,12.0676918,Germany
+"Holmfirth, West Yorkshire",53.5703517,-1.7870301,United Kingdom
+"Trento, Italy",46.0664228,11.1257601,Italy
+"Pulborough, West Sussex",50.9575636,-0.5097654,United Kingdom
+"Ross On Wye, Herefordshire",51.9140804,-2.5838357,United Kingdom
+"Steinsfeld-Reichelshofen, Bavaria",,,
+"Saint-Germain-de-Kamouraska, Quebec",47.589031,-69.798203,Canada
+"Saanichton, British Columbia",48.5972157,-123.41821509117776,Canada
+"Bernkastel-Kues, Rhineland-Palatinate",49.9157398,7.0708181,Germany
+"Aldwych, Greater London",51.513103,-0.1149205,United Kingdom
+"Wernigerode, Saxony-Anhalt",51.8344172,10.7862526,Germany
+"Buellton, California",34.6134727,-120.1936692,United States of America
+"St. John     , New Brunswick",45.278752,-66.058044,Canada
+"Ealing, Greater London",51.5126553,-0.3051952,United Kingdom
+"Birkenhead, Merseyside",53.3943509,-3.0191569,United Kingdom
+"Lewes, East Sussex",50.8746139,0.005115324110936268,United Kingdom
+"Ellicott City, Maryland",39.2673284,-76.7983067,United States of America
+"Augsburg, Bavaria",48.3668041,10.8986971,Germany
+"La Vista, Nebraska",41.1832679,-96.0324044,United States of America
+"Brindley Ford, Staffordshire",,,
+"Paderborn, North Rhine-Westphalia",51.71895955,,
+"Kaunas, Lithuania",54.8982139,,
+"Bodenwöhr, Bavaria",49.2704938,12.3043167,Germany
+"Mariembourg, Belgium",50.0941307,4.5233186,Belgium
+"Banmai, Mueang, Pathum Thani Province, Thailand",,,
+"Tallahassee, Florida",30.4380832,-84.2809332,United States of America
+"Koprivnica, Croatia",46.162944,16.8319162,Croatia
+"Peterborough, Cambridgeshire",52.5725769,-0.2427336,United Kingdom
+"Burton-on-Trent, Staffordshire",52.802742,-1.629917,United Kingdom
+"Rock, Cornwall",50.5446768,-4.9118108,United Kingdom
+"Axminster, Devon",50.7820966,-2.9979915,United Kingdom
+"Heidesheim am Rhein, Rhineland-Palatinate",50.0016706,8.121054329694335,Germany
+"Wichita, Kansas",37.6922361,-97.3375448,United States of America
+"Murau, Austria",47.11958265,14.225504559328828,Austria
+"Franklin, West Virginia",38.6428945,-79.3311531,United States of America
+"Providence, Rhode Island",41.8239891,-71.4128343,United States of America
+"Sai Yai, Sai Noi amp., Nonthaburi prov., Thailand",,,
+"Woodinville, Washington",47.7545827,-122.1588902,United States of America
+"Lindley, West Yorkshire",53.6622559,-1.8236688,United Kingdom
+"Halle/Saale, Saxony-Anhalt",51.4825041,11.9705452,Germany
+"Villach, Austria",46.6167284,13.8500268,Austria
+"Berlin-Wedding, Berlin",52.5427866,13.3669996,Germany
+"Maracaibo , Venezuela",10.6499149,-71.6396282,Venezuela
+"San Leandro, California",37.7249296,-122.1560768,United States of America
+"Eggolsheim-Weigelshofen, Bavaria",,,
+"Itzgrund-Kaltenbrunn, Bavaria",50.1240708,10.877682,Germany
+"Riedenburg/Altmühltal, Bavaria",,,
+"Ulm, Baden-Württemberg",48.3974003,9.9934336,Germany
+"Somerdale, New Jersey",39.8440027,-75.0226691,United States of America
+"Basseterre, St Kitts",17.2960919,-62.722301,Saint Kitts and Nevis
+"Much Hadham, Hertfordshire",51.8553921,0.0731413,United Kingdom
+"Nassau, Bahamas",25.0783456,-77.3383331,Bahamas
+"Remscheid, North Rhine-Westphalia",51.1798706,7.1943544,Germany
+"Devizes, Wiltshire",51.3525027,-1.9958302,United Kingdom
+"Creekside RPO Airdrie, Alberta",,,
+"Vinh Phu, Thuan An, Binh Duong Province, Vietnam",,,
+"Saint-Gédéon, Quebec",48.4934638,-71.7757803,Canada
+"Inkofen, Bavaria",48.8394251,12.2486811,Germany
+"Papeete, Tahiti, French Polynesia",,,
+"Milton Keynes , Buckinghamshire",52.0429797,-0.7589607,United Kingdom
+"Lauf-Neunhof, Bavaria",49.5551397,,
+"Ebensfeld, Bavaria",50.0661561,10.9585561,Germany
+"Wigan, Greater Manchester",53.5457188,-2.6264624,United Kingdom
+"Hamburg, New York",42.716293,-78.828717,United States of America
+"Milton Keynes, Buckinghamshire",52.0429797,-0.7589607,United Kingdom
+"Timmendorfer Strand, Schleswig-Holstein",53.9981853,10.7799016,Germany
+"Newton Aycliffe, Durham",54.6218534,-1.5663624,United Kingdom
+"Rockwall, Texas",32.8923464,-96.4066987,United States of America
+", Ontario",50.000678,-86.000977,Canada
+"Saskatoon, Saskatchewan",52.131802,-106.660767,Canada
+"Stevens Point, Wisconsin",44.5229223,-89.574111,United States of America
+"Ludwigslust, Mecklenburg-Vorpommern",53.3300229,11.4993644,Germany
+"Honeoye Falls, New York",42.9522855,-77.5902759,United States of America
+"Mora, Sweden",61.0082091,14.5431333,Sweden
+"High Point, North Carolina",35.9556924,-80.0053176,United States of America
+"Hanover, Pennsylvania",39.8063247,-76.9842735,United States of America
+"Heidenheim, Baden-Württemberg",48.6767637,10.152923,Germany
+"Frontenhausen, Bavaria",48.5462056,12.5253298,Germany
+"Priesendorf, Bavaria",49.9082567,10.7110545,Germany
+"Hof, Bavaria",50.3219015,11.9178807,Germany
+"Korschenbroich, North Rhine-Westphalia",51.1902651,6.5143539,Germany
+"Sion, Switzerland",46.23021515,7.363705184783203,Switzerland
+"Missen, Bavaria",47.5971193,10.1256424,Germany
+"Sandown, Isle Of Wight",50.6613306,-1.150346505454647,United Kingdom
+"Cham-Loifling, Bavaria",,,
+"Kensington, Greater London",51.4989948,-0.1991229,United Kingdom
+"Leipzig, Saxony",51.3406321,12.3747329,Germany
+"Pedavena (BL), Italy",46.0396242,11.8804327,Italy
+"Miltenberg, Bavaria",49.7017584,9.2559718,Germany
+"Long Melford, Suffolk",52.0715603,0.7153823,United Kingdom
+"Heimenkirch , Bavaria",47.6283377,9.9102676,Germany
+"Silly, Belgium",50.6484543,3.9235921,Belgium
+"Exeter, New Hampshire",42.981477,-70.9478343,United States of America
+"Broadstairs, Kent",51.3586758,1.4407855,United Kingdom
+"Boxborough, Massachusetts",42.4934474,-71.5141044,United States of America
+"Baysville, Ontario",45.1497562,-79.1151352,Canada
+"Lagos, Nigeria",6.4550575,3.3941795,Nigeria
+"Covington, Kentucky",39.0836224,-84.508371,United States of America
+"Minden, Ontario",44.9254436,-78.72493,Canada
+"Sherman, Texas",36.2452294,-101.8858689,United States of America
+"Torgau, Saxony",51.5581272,13.0046538,Germany
+"North Heath, West Sussex",50.99308795,-0.08935408264218406,United Kingdom
+"Lich, Hesse",50.5201683,8.8165535,Germany
+"Griffith, Indiana",41.534507,-87.4255305,United States of America
+"Norton Madeville, Essex",,,
+"Giza, Egypt",30.0170039,31.2134508,Egypt
+"Maple Ridge, British Columbia",49.2197345,-122.5997078,Canada
+"Nesselwang, Bavaria",47.6218885,10.5003482,Germany
+"Waldhaus, Baden-Württemberg",49.4832123,9.6144956,Germany
+"Youngstown , Ohio",41.1035786,-80.6520161,United States of America
+"Poncha Springs, Colorado",38.5127752,-106.0772384,United States of America
+"Hook Norton, Oxfordshire",51.9939848,-1.4822644,United Kingdom
+"Gessertshausen, Bavaria",48.329698,10.7309645,Germany
+"Hackney Wick, Greater London",51.543433,-0.0240839,United Kingdom
+"Leigh on Sea , Essex",51.5576986,0.6574595,United Kingdom
+"Konstanz, Baden-Württemberg",47.659216,9.1750718,Germany
+"Langley, British Columbia",49.106471850000005,-122.5501311568147,Canada
+"Idaho Springs, Colorado",39.71619174999999,-105.57441210321262,United States of America
+"Neuler, Baden-Württemberg",48.9278463,10.0688239,Germany
+"Freistadt, Austria",48.5112961,14.5047566,Austria
+"Evans City, Pennsylvania",40.7692321,-80.062838,United States of America
+"Oviedo, Florida",28.659392500000003,-81.20469046496677,United States of America
+"Furth im Wald, Bavaria",49.308165,12.8452877,Germany
+"Redmond, Oregon",44.2726203,-121.1739212,United States of America
+"Shelburne, Vermont",44.3783486,-73.2276183,United States of America
+"Westbank, British Columbia",49.8309376,-119.62889,Canada
+"Greenville, North Carolina",35.612661,-77.3663538,United States of America
+"Calgary , Alberta",51.0534234,-114.0625892,Canada
+"Great Staughton, Cambridgeshire",52.2685602,-0.3444957,United Kingdom
+"Guayaquil, Ecuador",-2.1899066,-79.887726,Ecuador
+"Wacken, Schleswig-Holstein",54.0216836,9.376705,Germany
+"Tatamagouche, Nova Scotia",45.7109353,-63.2879017,Canada
+"Berg, Bavaria",48.9467562,11.4038717,Germany
+"Lemesos, Cyprus",34.6852901,33.0332657,Cyprus
+"Bridgewater Corners, Vermont",43.5884026,-72.6559308,United States of America
+"Haltern am See, North Rhine-Westphalia",51.7430516,7.187221,Germany
+"Reichenau, Baden-Württemberg",47.695637250000004,9.059202239614567,Germany
+"Brenham, Texas",30.1668828,-96.3977442,United States of America
+"Niederwallmenach, Rhineland-Palatinate",50.1645031,7.8117722,Germany
+"Wake Forest, North Carolina",35.9803138,-78.5103731,United States of America
+"Kernersville, North Carolina",36.1198589,-80.0736533,United States of America
+"Niagara On The Lake, Ontario",,-79.0723264,
+"Köln, North Rhine-Westphalia",50.938361,6.959974,Germany
+"Ludwigshafen-Oggersheim, Rhineland-Palatinate",49.48815555,8.372524353895159,Germany
+"Wichita Falls, Texas",33.9137085,-98.4933873,United States of America
+"Potosi, Wisconsin",42.6895651,-90.7122426,United States of America
+"Akureyri, Iceland",65.63584850000001,-18.212309034723816,Iceland
+"Columbus, Georgia",32.4609764,-84.9877094,United States of America
+"Redwood City, California",37.4863239,-122.2325233,United States of America
+"Tongham, Surrey",51.234842,-0.7312608,United Kingdom
+"Williams, Arizona",35.2503394,-112.1869481,United States of America
+"Grande Prairie, Alberta",55.17108,-118.7949873,Canada
+"Folsom, California",38.6779591,-121.1760583,United States of America
+"Chipping Campden, Gloucestershire",52.0496652,-1.7813927,United Kingdom
+"Bourton-on-the-Water , Gloucestershire",51.8840725,-1.7573118,United Kingdom
+"Ehingen, Baden-Württemberg",48.2828519,9.7262175,Germany
+"Rožňava, Slovakia",48.6936373,20.571124211008403,Slovakia
+"Clackamas, Oregon",45.4103887,-122.5660663,United States of America
+"Salem, Oregon",44.9391565,-123.033121,United States of America
+"Nunhead, Greater London",51.4615309,-0.0535056,United Kingdom
+"Witten-Heven, North Rhine-Westphalia",51.4403909,7.3085535,Germany
+"Lake Leelanau, Michigan",44.980832,-85.715085,United States of America
+"Swindon, Wiltshire",51.5613683,-1.7856853,United Kingdom
+"Tbilisi, Georgia",41.6934591,44.8014495,Georgia
+"Neustadt, Schleswig-Holstein",54.1029898,10.8186738,Germany
+"Dorchester, Dorset",50.7116772,-2.4422170980612727,United Kingdom
+"Wilkes-Barre, Pennsylvania",41.2464824,-75.8817316,United States of America
+"Bonnerdale, Arkansas",34.384816,-93.3818521,United States of America
+", Venezuela",8.0018709,-66.1109318,Venezuela
+"Berlin, Pennsylvania",39.9206363,-78.9578022,United States of America
+"Kassel, Hesse",51.3154546,9.4924096,Germany
+"Koblenz, Rhineland-Palatinate",50.3533278,7.5943951,Germany
+"Constanta, Romania",44.1767161,28.6507598,Romania
+"Bubenreuth, Bavaria",49.6277003,11.0143385,Germany
+"Winchester, Hampshire",51.0612766,-1.3131692,United Kingdom
+"Frankfurt an der Oder, Brandenburg",,,
+-1.7,48.7803133,10.0397257,Germany
+-1.9,49.0241685,9.028337,Germany
++1.6,48.7181821,9.9892513,Germany
+-2.5,50.814444,14.361805,Czech Republic
+-1.6,48.7181821,9.9892513,Germany
++1.8,48.7809811,10.0370255,Germany
++2.4,,9.9912375,
+-1.5,52.5836798,13.2765985,Germany
+-2,-23.6041314,-69.0842783,Chile
+-2.3,51.25430275,7.148720632300392,Germany
++2.1,33.8144883,130.8904622,Japan
++2.5,50.814444,14.361805,Czech Republic
+-2.1,33.8144883,130.8904622,Japan
+-2.6,48.7334019,9.9731123,Germany
+-1.8,48.7809811,10.0370255,Germany
+-2.4,48.8005105,9.9912375,Germany
++1.5,52.5836798,13.2765985,Germany
++3.4,48.8036124,9.7194316,Germany
++3.8,48.7421776,9.9146221,Germany
+-2.7,48.5845713,9.2614049,Germany
+-1.4,48.7803566,10.056559,Germany
++1.7,48.7803133,10.0397257,Germany
+-2.2,48.7932811,9.967117,Germany
++2,-23.6041314,,
++1.9,49.0241685,9.028337,Germany
++2.3,51.25430275,7.148720632300392,Germany
++2.2,48.7932811,9.967117,Germany
++3.3,48.768121,10.0143983,Germany
++3,33.8333136,-4.8556382,Morocco
+-2.9,54.68093,9.99331,Germany
+-2.8,54.37917,10.98219,Germany
++3.1,35.5389607,139.5363687,Japan
++1.3,51.5076863,-0.1266808,United Kingdom
++2.6,48.7334019,9.9731123,Germany
++3.9,48.7428408,9.9107448,Germany
++1.1,54.3774033,13.1184383,Germany
++3.5,54.47508,9.85436,Germany
+-3,33.8333136,-4.8556382,Morocco
++2.9,54.68093,9.99331,Germany
++4.7,50.802944,14.317388,Czech Republic
++3.6,48.7404262,9.9244701,Germany
+-1.3,51.5076863,-0.1266808,United Kingdom
+-3.1,35.5389607,139.5363687,Japan
++2.8,54.37917,10.98219,Germany
++3.2,35.6601647,139.4932385,Japan
++3.7,48.7413979,9.9203204,Germany
++1.4,48.7803566,10.056559,Germany
++1.2,48.960138,2.3672727488694,France
++2.7,48.5845713,9.2614049,Germany
+-3.2,35.6601647,139.4932385,Japan
+-3.4,48.8036124,9.7194316,Germany
+-3.9,48.7428408,9.9107448,Germany
+-3.3,48.768121,10.0143983,Germany
+-3.7,48.7413979,9.9203204,Germany
+"Westerham, Kent",51.25681715,0.07303181295111258,United Kingdom
+"Eppingen, Baden-Württemberg",49.1373277,8.9084374,Germany
+"Plumpton Green, East Sussex",50.9352224,-0.0606118,United Kingdom
+"Deinze-Gottem, Belgium",50.9491288,3.4462519,Belgium
+"Kailua Kona, Hawaii",19.641941,-155.996933,United States of America
+"Bad Schussenried, Baden-Württemberg",48.0047363,9.6561098,Germany
+"Brill, Buckinghamshire",51.8188248,-1.0494807,United Kingdom
+"Wiveliscombe, Somerset",51.042145,-3.3100475,United Kingdom
+"Mammoth Lakes, California",37.6432525,-118.9668509,United States of America
+"Nashville, Tennessee",36.1622296,-86.7743531,United States of America
+"Pawtucket, Rhode Island",41.878711,-71.3825558,United States of America
+"Leeds, North Yorkshire",53.7974185,-1.5437941,United Kingdom
+"Elizabeth City, North Carolina",36.2956836,-76.2247697,United States of America
+"Shawinigan, Quebec",46.5389609,-72.7467621,Canada
+"New Paltz, New York",41.7464972,-74.0844894,United States of America
+"Winthrop, Washington",48.4779232,-120.1861956,United States of America
+"Fairhope, Alabama",30.507956,-87.89742922432941,United States of America
+"Roseland, Virginia",37.7476406,-78.9758579,United States of America
+"Wentzville, Missouri",38.8244136,-90.8683119,United States of America
+"East Hampton, Connecticut",41.5744405,-72.49192364130434,United States of America
+"Spandau, Berlin",52.5192672,13.195439,Germany
+"Bethlehem, Pennsylvania",40.6178915,-75.3786521,United States of America
+"Lincoln, Nebraska",40.8088861,-96.7077751,United States of America
+"Memmelsdorf-Merkendorf, Bavaria",,,
+"Goochland, Virginia",37.7204342,-77.8837984,United States of America
+"Maple Grove, Minnesota",45.0984983,-93.4419222,United States of America
+"Frankfurt am Main, Hesse",50.1106444,8.6820917,Germany
+"Glendale, Wisconsin",43.1352881,-87.9356423,United States of America
+"Plattsburgh, New York",44.69282,-73.45562,United States of America
+"Coon Rapids, Minnesota",45.1728923,-93.3023898,United States of America
+"El Segundo , California",33.917028,-118.4156337,United States of America
+"Lloydminster, Alberta",53.279995,-110.00885,Canada
+"Duluth, Minnesota",,-92.1251218,
+"Ottawa , Ontario",45.421106,-75.690308,Canada
+"Eisenberg-Speiden, Bavaria",,,
+"Bremerton, Washington",,-122.6246836,
+"Montreal, Quebec",45.4972159,-73.6103642,Canada
+"Harrisonburg, Virginia",38.4493315,-78.8688833,United States of America
+"Fortuna, California",40.597407,-124.156034,United States of America
+"Athens, Georgia",33.9597677,-83.376398,United States of America
+"Rock Hill, South Carolina",34.9248667,-81.0250784,United States of America
+"Douglas, Michigan",42.6433584,-86.2005933,United States of America
+"Columbus, Indiana",39.2014405,-85.9213796,United States of America
+"Ava, Illinois",37.8883846,-89.4948169,United States of America
+"Blaine, Minnesota",45.1607987,-93.2349489,United States of America
+"Revelstoke, British Columbia",50.998045,-118.1956709,Canada
+"Woburn, Massachusetts",42.4792618,-71.1522766,United States of America
+"Hesperia, California",34.4263886,-117.3008784,United States of America
+"Altenkunstadt, Bavaria",,11.2433755,
+"Loveland, Colorado",40.385549,-105.04436132094955,United States of America
+"Greensboro, North Carolina",36.0726355,-79.7919754,United States of America
+"Sunriver, Oregon",43.8839966,-121.4385168,United States of America
+"Conroe, Texas",30.3118769,-95.4560512,United States of America
+"Sarasota, Florida",27.3364347,-82.5306527,United States of America
+"Melton Mowbray , Leicestershire",52.7649964,-0.887587,United Kingdom
+"Tarboro, North Carolina",35.8968236,-77.5358049,United States of America
+"Ironwood, Michigan",46.4555673,-90.1684371,United States of America
+"Punta Arenas, Chile",-53.162664,-70.9080552,Chile
+"Fridley, Minnesota",45.0838291,-93.2590388,United States of America
+"Hickory, North Carolina",35.7333312,,
+"Minnetonka, Minnesota",44.9127229,-93.499059,United States of America
+"Walnut Creek, California",37.9020731,-122.0618702,United States of America
+"Ann Arbor, Michigan",42.2681569,-83.7312291,United States of America
+"Saxapahaw, North Carolina",35.947868,-79.32073627099352,United States of America
+"Waltham, Massachusetts",42.3756401,-71.2358004,United States of America
+"Elephant & Castle, Greater London",51.4948884,-0.1005731,United Kingdom
+"Annandale, Minnesota",45.2627428,-94.1244271,United States of America
+"Amsterdam, Netherlands",52.3727598,4.8936041,The Netherlands
+"Springfield, Oregon",44.0462362,-123.0220289,United States of America
+"Saco, Maine",43.5009176,-70.4428286,United States of America
+"Newcastle, Maine",44.035283,-69.537277,United States of America
+"Valrico, Florida",27.9484265,-82.23621545220522,United States of America
+"Clayton, North Carolina",35.650711,-78.4563914,United States of America
+"Roxboro, North Carolina",36.3937519,-78.9827881,United States of America
+"Stolberg, North Rhine-Westphalia",50.7702908,6.2295504,Germany
+"Easthampton, Massachusetts",42.2689274,-72.6688036,United States of America
+"Garland, Texas",32.912624,-96.6388833,United States of America
+"Sunderland, Tyne & Wear",54.9058512,-1.3828727,United Kingdom
+"Daytona Beach, Florida",29.2108147,-81.0228331,United States of America
+"Muskegon, Michigan",43.2341813,-86.2483921,United States of America
+"Vicksburg, Mississippi",32.3528418,-90.8777342,United States of America
+"Huntersville, North Carolina",35.410845,-80.8429094,United States of America
+"Naples, Florida",26.1421976,-81.7942944,United States of America
+"Northampton, Massachusetts",42.323344,-72.6718895,United States of America
+"Winston-Salem, North Carolina",36.0998131,-80.2440518,United States of America
+"Wells, Maine",43.322181,-70.580978,United States of America
+"Decatur, Georgia",30.8736613,-84.5740953,United States of America
+"Atlantic Highlands, New Jersey",40.4078865,-74.034306,United States of America
+"Waakirchen, Bavaria",47.7725619,11.6728042,Germany
+"MIlwaukee, Wisconsin",43.0349931,-87.922497,United States of America
+"Telluride, Colorado",37.9374939,-107.8122852,United States of America
+"Manhattan, Kansas",39.1836082,-96.5716694,United States of America
+"Hallstadt-Dörfleins, Bavaria",49.9316104,10.8584152,Germany
+"Lake Mills, Wisconsin",43.0798032,-88.9125723,United States of America
+"South Natick, Massachusetts",42.2737081,-71.3161688,United States of America
+"Black Mountain, North Carolina",35.6178951,-82.3212302,United States of America
+"Cambridge, Massachusetts",42.3750997,-71.1056157,United States of America
+"Atlantic Beach, North Carolina",34.6990505,-76.7402108,United States of America
+"Wisbech, Cambridgeshire",52.6651733,0.1606824,United Kingdom
+"Douglassville, Pennsylvania",40.2578714,-75.7263008,United States of America
+"Vernante, Italy",44.245027,7.533834,Italy
+"Waconia, Minnesota",44.8507957,-93.7869088,United States of America
+"San Pedro, California",33.7358518,-118.2922934,United States of America
+"Giey-sur-Aujon, France",47.9058798,5.0700133,France
+"Gary, Indiana",41.6021292,-87.3371372,United States of America
+"Midvale, Utah",40.6110589,-111.8999353,United States of America
+"Wellingborough, Northamptonshire",52.30189,-0.6937309,United Kingdom
+"Dripping Springs, Texas",30.1902067,-98.0866781,United States of America
+"Reno, Nevada",39.5261206,-119.8126581,United States of America
+"Phoenix, Arizona",33.4484367,-112.0741417,United States of America
+"Geiselhoering, Bavaria",48.82585,12.3935461,Germany
+"Foresters Falls, Ontario",45.6806698,,
+"Newport, Vermont",44.936127,,
+"Stadtsteinach, Bavaria",50.1613344,11.5054549,Germany
+"Elmsford, New York",41.0550969,-73.8201338,United States of America
+"Spooner, Wisconsin",45.8228411,-91.8908593,United States of America
+"New Brighton, Minnesota",45.0628999,-93.2060969,United States of America
+"Bainbridge Island, Washington",47.6262725,-122.5209287,United States of America
+"Blanco, Texas",30.2419274,-98.4004594,United States of America
+"Shelburne, Nova Scotia",43.7639539,-65.321384,Canada
+"Mogadore, Ohio",41.050775,-81.393946,United States of America
+"Pastetten, Bavaria",48.1991807,11.9434246,Germany
+"Congleton, Cheshire",53.1631463,-2.2110691,United Kingdom
+"Chattanooga, Tennessee",35.0457219,-85.3094883,United States of America
+"Birmingham, Michigan",42.5467012,-83.2113192,United States of America
+"Niagara Falls, Ontario",43.100983,-79.115295,Canada
+"Bad Füssing, Bavaria",48.3506733,13.3095441,Germany
+"Willowbrook, Illinois",41.7697533,-87.9358931,United States of America
+"Ambleside, Cumbria",54.431954,-2.9630528,United Kingdom
+"Augusta, Maine",44.310583,-69.779663,United States of America
+"Katy, Texas",29.7857853,-95.8243956,United States of America
+"Redding, California",40.5863563,-122.3916754,United States of America
+", Quebec",52.4760892,-71.8258668,Canada
+"Savannah , Georgia",32.0809263,-81.0911768,United States of America
+"Bedford, Texas",32.844017,-97.1430671,United States of America
+"Lancaster, Ohio",39.7136754,-82.5993294,United States of America
+"Dallastown, Pennsylvania",39.9001109,-76.6402763,United States of America
+"Fall River, Massachusetts",41.7010642,-71.1546367,United States of America
+"Rougemont, Quebec",45.447366,-73.063545,Canada
+"Bad Laasphe, North Rhine-Westphalia",50.9271541,8.4123648,Germany
+"Broadway, Worcestershire",52.0353825,-1.8618609,United Kingdom
+"Tofino, British Columbia",49.1529643,-125.9047083,Canada
+"Kreuztal-Krombach, North Rhine-Westphalia",50.996039800000005,7.953999974339767,Germany
+"Maxlrain, Bavaria",47.8994924,11.987852,Germany
+"Titting, Bavaria",48.996666,11.2106102,Germany
+"Stoke-on-Trent, Staffordshire",53.02596595,-2.194252919036903,United Kingdom
+"Nelson, British Columbia",49.494891,-117.290039,Canada
+"Concord, New Hampshire",43.207178,-71.537476,United States of America
+"Amana, Iowa",41.8000071,-91.8707335,United States of America
+"Cedar Falls, Iowa",42.5274123,-92.4453179,United States of America
+"Des Moines, Iowa",41.5910641,-93.6037149,United States of America
+"Fredericksburg, Texas",30.2752011,-98.8719843,United States of America
+"Durango, Colorado",37.2713951,-107.8815978,United States of America
+"Lubbock, Texas",33.5635206,-101.879336,United States of America
+"Littleton, New Hampshire",44.306653,,
+"Dulles, Virginia",38.95226625,-77.45342297783296,United States of America
+"Appleton, Wisconsin",44.2611337,-88.4067604,United States of America
+"Radebeul, Saxony",51.0999765,13.6767995,Germany
+"München, Bavaria",48.1371079,11.5753822,Germany
+"Cascade Locks, Oregon",45.669513,-121.890402,United States of America
+"Prior Lake, Minnesota",44.7133271,-93.4226873,United States of America
+"Lakeville, Minnesota",44.650051,-93.2432791,United States of America
+"Stamford, Connecticut",41.0534302,,
+"Cookshire-Eaton, Quebec",45.4124593,-71.6293885,Canada
+"Orono, Maine",44.883607,,
+"Västerås, Sweden",59.6110992,16.5463679,Sweden
+"Riverview , New Brunswick",46.0565313,-64.8010731,Canada
+"Pakenham, Ontario",45.3330674,-76.2903013,Canada
+"Bathurst, New Brunswick",47.626529,,
+"Niagara-on-the-Lake, Ontario",43.2556116,-79.0723264,Canada
+"Hitchin, Hertfordshire",51.9464129,-0.2791646,United Kingdom
+"Stratford, Ontario",43.3700899,-80.9818016,Canada
+"Nackawic, New Brunswick",45.9914512,-67.2410679,Canada
+"Adelsdorf-Neuhaus, Bavaria",,,
+"Tilford, Surrey",51.1871516,-0.7547390608198917,United Kingdom
+"Ulvik, Norway",60.567695,6.9163916,Norway
+"Almonte, Ontario",45.226049,-76.1945277,Canada
+"Wincle, Cheshire",53.1865914,-2.0624972,United Kingdom
+"Lancaster, Lancashire",54.0484068,-2.7990345,United Kingdom
+"Largo, Florida",27.9094665,-82.7873244,United States of America
+"Schaumburg, Illinois",42.0333608,-88.083406,United States of America
+"Leadville, Colorado",39.2508229,-106.2925238,United States of America
+"Michigan City, Indiana",41.7075394,-86.8950297,United States of America
+"Snoqualmie, Washington",47.5289527,-121.8270932,United States of America
+"Vielank, Mecklenburg-Vorpommern",53.2355012,11.1351824,Germany
+"Baileys Harbor, Wisconsin",45.064993,-87.124274,United States of America
+"Broomfield, Colorado",39.9203827,-105.0691464,United States of America
+"Homerton, Greater London",51.5470789,-0.043121,United Kingdom
+"Berwyn, Pennsylvania",40.0448306,-75.4388053,United States of America
