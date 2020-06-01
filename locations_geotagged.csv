@@ -2221,7 +2221,7 @@ locations,latitude,longitude,country
 "Mount Orab, Ohio",39.0275659,-83.919652,United States of America
 "San Marcos, Alabama",29.8700727,-97.94562049999999,United States of America
 "Holly Springs, North Carolina",35.6512655,-78.8336218,United States of America
-"Sörup, Schleswig-Holstein",54.716936100000005,9.6673591,Germany
+"Sörup, Schleswig-Holstein",54.71693610000001,9.6673591,Germany
 "Wadsworth, Ohio",41.0256101,-81.72985190000001,United States of America
 "East Ham, Greater London",51.5329628,0.055320100000000004,United Kingdom
 "Tettnang, Baden-Württemberg",47.671655799999996,9.589115800000002,Germany
@@ -2232,25 +2232,25 @@ locations,latitude,longitude,country
 "Edgewater, Colorado",39.74572379999999,-105.06218329999999,United States of America
 "Wombwell, South Yorkshire",53.5209656,-1.4032589,United Kingdom
 "Media, Pennsylvania",39.9167783,-75.387693,United States of America
-"Dover, Kent",51.125127500000005,1.3134228000000001,United Kingdom
+"Dover, Kent",51.12512750000001,1.3134228000000001,United Kingdom
 "Leyburn, North Yorkshire",54.3105988,-1.8270091,United Kingdom
-"Sutton Scarsdale, Derbyshire",53.213884400000005,-1.3373712,United Kingdom
+"Sutton Scarsdale, Derbyshire",53.21388440000001,-1.3373712,United Kingdom
 "Manteno, Illinois",41.2506759,-87.83142990000002,United States of America
 "Heiligenstadt-Oberleinleitner, Bavaria",,,
-"Saint-Eustache, Quebec",45.5646052,-73.89297140000001,Canada
-"Sun Prairie, Wisconsin",43.18345789999999,-89.21343590000001,United States of America
+"Saint-Eustache, Quebec",45.5646052,-73.89297140000002,Canada
+"Sun Prairie, Wisconsin",43.18345789999999,-89.21343590000002,United States of America
 "Soquel, California",36.99256800000001,-121.94285974303101,United States of America
-"Hambleden, Buckinghamshire",51.571935100000005,-0.8691036,United Kingdom
+"Hambleden, Buckinghamshire",51.57193510000001,-0.8691036,United Kingdom
 "Stein a.d. Traun, Bavaria",47.9832438,12.547265199999998,Germany
 "Westport, New York",44.184174,-73.435707,United States of America
 "Pahres, Bavaria",49.61992070000001,10.655484,Germany
 "Warren, Michigan",42.4932575,-83.0062746,United States of America
 "Edenbridge, Kent",51.1907598,0.07297902946867366,United Kingdom
-"Aufseß, Bavaria",49.884196200000005,11.2275665,Germany
+"Aufseß, Bavaria",49.88419620000001,11.2275665,Germany
 "Camberley, Surrey",51.3392845,-0.7460981,United Kingdom
 "Tarporley, Cheshire",53.159369700000006,-2.6683761,United Kingdom
 "Chiddingfold, Surrey",51.1105426,-0.6281992,United Kingdom
-"Southbourne, Dorset",50.7236047,-1.7990633000000003,United Kingdom
+"Southbourne, Dorset",50.7236047,-1.7990633000000005,United Kingdom
 "Meltham, West Yorkshire",53.58977425000001,-1.860244230633496,United Kingdom
 "Swanley Village, Kent",51.4049133,0.1954951,United Kingdom
 "Leutenbach, Bavaria",49.7096512,11.1720678,Germany
@@ -2263,7 +2263,7 @@ locations,latitude,longitude,country
 "Oaktown, Connecticut",,,
 "Rocky Mount, North Carolina",35.942383299999996,-77.7956949,United States of America
 "Horbury, West Yorkshire",53.6612123,-1.5542200000000002,United Kingdom
-"Mundelein, Illinois",42.263079,-88.00396529999999,United States of America
+"Mundelein, Illinois",42.263079,-88.00396529999998,United States of America
 "Oswego, Illinois",41.6789932,-88.35502159999999,United States of America
 "Stittsville, Ontario",45.2690657,-75.91452307567019,Canada
 "Valdosta, Georgia",30.8327022,-83.2784851,United States of America
@@ -2283,7 +2283,7 @@ locations,latitude,longitude,country
 "Oberursel, Hesse",50.2005518,8.580452000000001,Germany
 "Cheriton Fitzpaine, Devon",50.84480429999999,-3.6087208,United Kingdom
 "Winnipeg, Alberta",49.844586299999996,-97.258052,Canada
-"Fulbourn, Cambridgeshire",52.182897100000005,0.21988960000000002,United Kingdom
+"Fulbourn, Cambridgeshire",52.18289710000001,0.21988960000000002,United Kingdom
 "Hattiesburg, Mississippi",31.327118900000002,-89.2903392,United States of America
 "Walthamstow , Greater London",51.5844701,-0.018818599999999998,United Kingdom
 "Wakefield, West Yorkshire",,,
@@ -2295,7 +2295,7 @@ locations,latitude,longitude,country
 "Tacherting-Schalchen, Bavaria",48.078695399999994,12.567204400000001,Germany
 "Edison, New Jersey",40.5382375,-74.39451734508772,United States of America
 "South Dennis, Massachusetts",41.6895552,-70.1564077,United States of America
-"Saint-Joseph-du-Lac, Quebec",45.5334441,-74.00603559999999,Canada
+"Saint-Joseph-du-Lac, Quebec",45.5334441,-74.00603559999998,Canada
 "Saint-Henri-de-Lévis, Quebec",46.6915807,-71.0665313,Canada
 "North Versailles, Pennsylvania",40.379791299999994,-79.8094916,United States of America
 "Winters, California",38.5249065,-121.9708017,United States of America
@@ -2317,10 +2317,10 @@ locations,latitude,longitude,country
 "Adamstown, Pennsylvania",40.2412035,-76.0563303,United States of America
 "Larkspur, California",37.9340915,-122.53525390000001,United States of America
 "Tucker, Georgia",33.8532701,-84.2200729,United States of America
-"Schenectady, New York",42.8142432,-73.93956870000001,United States of America
+"Schenectady, New York",42.8142432,-73.93956870000002,United States of America
 "Mamette Lake, British Columbia",50.11249229999999,-120.78713880000001,Canada
 "Hudson, Ohio",41.240056,-81.440667,United States of America
-"Anderson, South Carolina",34.506860100000004,-82.65062640000001,United States of America
+"Anderson, South Carolina",34.506860100000004,-82.65062640000002,United States of America
 "Horseheads, New York",42.167019,-76.8205119,United States of America
 "Eden Prairie, Minnesota",44.8546856,-93.470786,United States of America
 "Whitehorse, Yukon",60.721571,-135.054932,Canada
@@ -2331,10 +2331,10 @@ locations,latitude,longitude,country
 "Oberschleißheim, Bavaria",48.2549383,11.554605800000001,Germany
 "Isny im Allgäu, Baden-Württemberg",47.6925666,10.039203,Germany
 "Rastede, Lower Saxony",53.2467081,8.201903999999999,Germany
-"Interlaken, Switzerland",46.685523100000005,7.858513900000001,Switzerland
+"Interlaken, Switzerland",46.68552310000001,7.858513900000001,Switzerland
 "Montegioco , Italy",44.841776,8.963008300000002,Italy
 "Strullendorf-Rossdorf a. Forst, Bavaria",,,
-"Salisbury, Maryland",38.3662114,-75.60088809999999,United States of America
+"Salisbury, Maryland",38.3662114,-75.60088809999998,United States of America
 "Bobbington, West Midlands",52.51185039999999,-2.2850493999999997,United Kingdom
 "Iqaluit, Nunavut",63.7577822,-68.5587568,Canada
 "Darlington, Durham",54.5242081,-1.5555812,United Kingdom
@@ -2342,32 +2342,60 @@ locations,latitude,longitude,country
 "Bad Staffelstein-Loffeld, Bavaria",50.0792699,11.025711124096905,Germany
 "Embrun, Ontario",45.27420120000001,-75.2749125,Canada
 "Gig Harbor, Washington",47.3259697,-122.5878659,United States of America
-"Carleton Place, Ontario",45.140336600000005,-76.1465672,Canada
-"Homestead, Florida",25.471894600000002,-80.47599050000001,United States of America
-"Ithaca, New York",42.4396039,-76.49680190000001,United States of America
+"Carleton Place, Ontario",45.14033660000001,-76.1465672,Canada
+"Homestead, Florida",25.471894600000002,-80.47599050000002,United States of America
+"Ithaca, New York",42.4396039,-76.49680190000002,United States of America
 "Rockville, Virginia",39.6214707,-79.7047741,United States of America
 "Axberg, Austria",46.9538258,15.760800099999999,Austria
 "Royal Oak, Michigan",42.4894801,-83.1446485,United States of America
 "Bécancour, Quebec",46.339343,-72.433205,Canada
 "Penzance, Cornwall",50.121317299999994,-5.5329266,United Kingdom
 "Untersiemau-Birkach, Bavaria",50.1654508,11.0079704,Germany
-"LaFayette, New York",42.892289,-76.1052019,United States of America
+"LaFayette, New York",42.892289,-76.10520190000003,United States of America
 "Ogden, Utah",41.2230048,-111.9738429,United States of America
-"Clermont, New Jersey",39.9906677,-74.7996072,United States of America
-"Sechelt, British Columbia",49.4721147,-123.7631244,Canada
+"Clermont, New Jersey",39.9906677,-74.79960720000003,United States of America
+"Sechelt, British Columbia",49.47211470000001,-123.7631244,Canada
 "Little Current, Ontario",45.9800486,-81.9267993,Canada
 "New City, New York",41.1499825,-73.98989776091842,United States of America
 "Pennigsehl, Lower Saxony",52.6440606,9.0275077,Germany
 "Excelsior, Minnesota",44.9032963,-93.5663455,United States of America
 "Lübbecke, North Rhine-Westphalia",52.3027209,8.6183054,Germany
 "Todmorden, West Yorkshire",53.7099598,-2.1037057269441184,United Kingdom
-"Cadolzburg, Bavaria",49.4591406,10.8563868,Germany
+"Cadolzburg, Bavaria",49.45914060000001,10.8563868,Germany
 "Pinhoe, Devon",50.7377934,-3.4700849,United Kingdom
 "Sanford, Florida",28.8117297,-81.2680345,United States of America
-"Meiningen, Thuringia",50.567869,10.4157428,Germany
+"Meiningen, Thuringia",50.567869,10.415742800000002,Germany
 "Issaquah, Washington",47.5348778,-122.0432974,United States of America
-"Glenville, New York",42.8682502,-73.9282787,United States of America
+"Glenville, New York",42.86825020000001,-73.9282787,United States of America
 "Hudson, New York",42.2528649,-73.790959,United States of America
-"Harvey, New Brunswick",45.729716350000004,-67.00709629436042,Canada
+"Harvey, New Brunswick",45.72971635,-67.00709629436042,Canada
 "Regensburg, Bavaria",49.0195333,12.0974869,Germany
-"Ripley, Derbyshire",53.0515177,-1.4026311,United Kingdom
+"Ripley, Derbyshire",53.05151770000001,-1.4026311000000002,United Kingdom
+"Halfing, Bavaria",47.9500426,12.2765095,Germany
+"Buena Vista, Colorado",38.84221779999999,-106.1311288,United States of America
+"Enterprise, Oregon",45.4258114,-117.2780121,United States of America
+"Grass Valley, California",39.2190602,-121.06105749999999,United States of America
+"Kettering, Ohio",39.6895036,-84.16882740000001,United States of America
+"Jersey City, New Jersey",40.7281575,-74.0776417,United States of America
+"Hoboken, New Jersey",40.7433066,-74.0323752,United States of America
+"London, Greater London",51.5073219,-0.1276474,United Kingdom
+"Krefeld, North Rhine-Westphalia",51.3331205,6.562334299999999,Germany
+"West Kelowna, British Columbia",49.857464,-119.580688,Canada
+"Merritt, British Columbia",50.111704,-120.7884227,Canada
+"Chesham, Buckinghamshire",51.7062914,-0.6123113,United Kingdom
+"Wallingford, Connecticut",41.4570418,-72.8231552,United States of America
+"Kalona, Iowa",41.4830723,-91.7060016,United States of America
+"Laurel, Maryland",39.0992752,-76.8483061,United States of America
+"Maria Stein, Ohio",40.4078249,-84.4932862,United States of America
+"West Reading, Pennsylvania",40.3337038,-75.9474322,United States of America
+"Brantford, Ontario",43.1408157,-80.2631733,Canada
+"Berchtesgaden, Bavaria",47.63108,13.0021634,Germany
+"Memmingen, Bavaria",47.9867696,10.181319,Germany
+"Kiel, Schleswig-Holstein",54.3227085,10.135555,Germany
+"Philadelphia , Pennsylvania",39.9527237,-75.1635262,United States of America
+"Free Union, Virginia",38.1548563,-78.5644593,United States of America
+"North Little Rock, Arkansas",34.769536,-92.2670941,United States of America
+"Au/Hallertau, Bavaria",48.5585625,11.7378413,Germany
+"Reisbach/Vils, Bavaria",,,
+"Columbia, Missouri",38.951883,-92.3337366,United States of America
+"Safety Harbor, Florida",27.9908529,-82.6931553,United States of America
